@@ -1,9 +1,9 @@
 # Wedding invitation
-> Beautifully designed one pager website for Pritesh & Ipsita’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Chiku & Deepa’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://pritesh-ipsita.co/).
+[See it live](https://chiku-deepa.co/).
 
-![Pritesh & Ipsita](https://pritesh-ipsita.co/og-image.jpg "Pritesh & Ipsita")
+![Chiku & Deepa](https://chiku-deepa.co/og-image.jpg "Chiku & Deepa")
 
 
 ## Bulit with

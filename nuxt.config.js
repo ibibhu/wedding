@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Pritesh & Ipsita | We’re getting married!',
+    title: 'Chiku & Deepa | We’re getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -20,12 +20,12 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://pritesh-ipsita.co/',
+        content: 'https://chiku-deepa.co/',
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Pritesh & Ipsita | We’re getting married!',
+        content: 'Chiku & Deepa | We’re getting married!',
       },
       {
         hid: 'og:description',
@@ -46,12 +46,12 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://pritesh-ipsita.co/',
+        content: 'https://chiku-deepa.co/',
       },
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Pritesh & Ipsita | We’re getting married!',
+        content: 'Chiku & Deepa | We’re getting married!',
       },
       {
         hid: 'twitter:description',

@@ -29,9 +29,9 @@
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            SUNDAY, FEB 7, 2021
+            WEDNESDAY, JULY 7, 2021
           </div>
-          <svg
+          <!-- <svg
             data-aos="fade-up"
             data-aos-delay="500"
             class="w-56 md:w-auto md:max-w-sm mx-auto h-auto"
@@ -49,8 +49,14 @@
               d="M294.915 161.752L300.007 161.6C302.135 161.6 303.554 162.056 304.263 162.968C304.618 163.373 304.795 163.778 304.795 164.184C304.795 164.589 304.669 164.944 304.415 165.248C303.807 166.008 302.667 166.388 300.995 166.388C298.107 166.388 295.549 165.273 293.319 163.044C287.645 163.905 283.338 166.92 280.399 172.088C278.525 175.432 277.587 178.7 277.587 181.892C277.587 183.665 277.866 185.413 278.423 187.136C280.095 192 283.718 194.432 289.291 194.432C294.257 194.432 298.563 192.76 302.211 189.416C305.859 186.072 307.683 182.753 307.683 179.46C307.683 177.889 306.999 176.597 305.631 175.584C304.314 174.52 302.895 173.912 301.375 173.76C299.906 173.557 298.639 173.456 297.575 173.456C296.562 173.456 295.219 173.582 293.547 173.836C291.926 174.038 290.305 174.697 288.683 175.812C286.758 177.129 285.795 178.877 285.795 181.056C285.795 183.234 287.493 185.21 290.887 186.984C291.394 187.288 291.597 187.693 291.495 188.2C291.445 188.656 291.242 188.782 290.887 188.58C287.695 186.857 285.441 184.906 284.123 182.728C283.211 181.309 282.755 180.118 282.755 179.156C282.755 178.193 282.882 177.408 283.135 176.8C283.743 175.026 285.263 173.532 287.695 172.316C290.127 171.1 293.218 170.492 296.967 170.492H310.419C313.054 170.492 316.297 169.605 320.147 167.832C322.022 166.97 323.39 165.957 324.251 164.792C324.657 164.184 324.859 163.55 324.859 162.892C324.859 162.182 324.707 161.574 324.403 161.068C324.099 160.561 323.973 160.206 324.023 160.004C324.074 159.801 324.201 159.7 324.403 159.7C324.657 159.7 324.859 159.826 325.011 160.08C325.721 161.296 326.075 162.461 326.075 163.576C326.075 164.64 325.746 165.628 325.087 166.54C323.821 168.465 321.667 170.01 318.627 171.176C315.587 172.341 312.446 172.924 309.203 172.924C309.102 172.924 308.975 172.924 308.823 172.924C310.749 174.494 311.711 176.496 311.711 178.928C311.711 182.322 309.735 185.818 305.783 189.416C303.909 191.189 301.502 192.633 298.563 193.748C295.625 194.862 292.534 195.42 289.291 195.42C281.438 195.42 275.89 193.14 272.647 188.58C271.026 186.3 270.215 184.096 270.215 181.968C270.215 179.84 270.545 177.864 271.203 176.04C272.977 171.226 276.549 167.502 281.919 164.868C285.01 163.348 288.481 162.385 292.331 161.98C290.913 160.004 290.203 157.521 290.203 154.532C290.254 151.542 291.571 148.73 294.155 146.096C296.739 143.461 299.703 141.561 303.047 140.396C306.442 139.18 309.735 138.572 312.927 138.572C315.562 138.572 317.791 139.104 319.615 140.168C321.49 141.232 322.427 142.929 322.427 145.26C322.427 146.729 321.971 148.046 321.059 149.212C320.147 150.326 319.109 150.884 317.943 150.884C316.829 150.884 315.917 150.554 315.207 149.896C314.549 149.186 314.219 148.325 314.219 147.312C314.219 146.298 314.549 145.462 315.207 144.804C315.917 144.145 316.727 143.816 317.639 143.816C318.247 143.816 318.83 143.968 319.387 144.272C319.945 144.525 320.274 144.829 320.375 145.184C320.426 144.88 320.451 144.576 320.451 144.272C320.451 143.157 319.995 142.296 319.083 141.688C318.121 140.978 316.677 140.624 314.751 140.624C312.826 140.624 310.571 141.156 307.987 142.22C305.403 143.233 302.971 144.728 300.691 146.704C298.411 148.68 296.613 151.112 295.295 154C294.586 155.621 294.231 157.065 294.231 158.332C294.231 159.598 294.459 160.738 294.915 161.752ZM303.503 164.108C303.503 163.196 301.629 162.74 297.879 162.74C297.119 162.74 296.334 162.765 295.523 162.816C296.739 164.336 298.361 165.096 300.387 165.096C302.465 165.096 303.503 164.766 303.503 164.108Z"
               fill="#C1272D"
             />
-          </svg>
-
+          </svg> -->
+          <img
+            data-aos="fade-up"
+            data-aos-delay="600"
+            src="@/assets/images/name1.svg"
+            class="w-full mx-auto hidden md:block"
+            alt="Chiku & Deepa"
+          />
           <div
             data-aos="fade-up"
             data-aos-delay="400"
@@ -63,17 +69,17 @@
           <img
             data-aos="fade-up"
             data-aos-delay="600"
-            src="@/assets/images/photo.jpg"
+            src="@/assets/images/photo.png"
             class="w-full mx-auto hidden md:block"
-            alt="Pritesh & Ipsita"
+            alt="Chiku & Deepa"
           />
 
           <img
             data-aos="fade-up"
             data-aos-delay="100"
-            src="@/assets/images/photo.jpg"
+            src="@/assets/images/photo.png"
             class="w-full mx-auto block md:hidden"
-            alt="Pritesh & Ipsita"
+            alt="Chiku & Deepa"
           />
         </div>
       </div>
@@ -301,15 +307,15 @@
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            SUNDAY<br />
-            FEB 7, 2021
+            WEDNESDAY<br />
+            JULY 7, 2021
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            10:00 AM Onwards
+            5:00 PM Onwards
           </div>
         </div>
         <div class="text-left pl-6 md:pl-16">
@@ -327,15 +333,15 @@
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            MONDAY<br />
-            FEB 8, 2021
+            FRIDAY<br />
+            JULY 9, 2021
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            10:00 AM Onwards
+            12:00 PM Onwards
           </div>
         </div>
       </div>
@@ -346,7 +352,7 @@
           data-aos-duration="400"
         >
           <span class="highlight-container">
-            <span class="highlight">RECEPTION VENUE</span>
+            <span class="highlight">MARRIAGE VENUE</span>
           </span>
         </div>
         <div
@@ -355,10 +361,10 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-          Kanteshir, Kesinga, Odisha, 766012
+          Hotel Micro Continental, Jharsuguda, Odisha 768205
         </div>
         <a
-          href="https://www.google.com/maps/dir//Kanteshir+Post+Office,+Kantesir,+Odisha+766012/@20.2164661,83.2476362,20z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a2460082ce6348f:0x75659dcdd0b39fa!2m2!1d83.2480065!2d20.2162966?hl=en"
+          href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6"
           class="my-6 inline-block"
           data-aos="fade-up"
           data-aos-duration="400"
@@ -403,7 +409,75 @@
             class="rounded-md"
             width="100%"
             height="400"
-            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=20.2163428,83.2478984+(Bishi's)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.3940189365803!2d84.02440481473724!3d21.880897963517516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a20e42fe9189329%3A0x9dff13486795bbbe!2sHotel%20Micro%20Continental!5e0!3m2!1sen!2sus!4v1623868191536!5m2!1sen!2sus"
+          ></iframe>
+        </div>
+      </div>
+      <div class="mt-12 text-center">
+        <div
+          class="font-medium text-sm md:text-base tracking-wider mb-4"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          <span class="highlight-container">
+            <span class="highlight">RECEPTION VENUE</span>
+          </span>
+        </div>
+        <div
+          class="font-medium"
+          translate="no"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          Hotel Jaysingh, Bargarh, Odisha 768028
+        </div>
+        <a
+          href="https://goo.gl/maps/qBE7CXjgyLBtq9aJA"
+          class="my-6 inline-block"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          <span class="inline-flex rounded-full shadow-sm">
+            <button
+              type="button"
+              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150"
+            >
+              Get direction
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                x="0px"
+                y="0px"
+                fill="#fff"
+                class="ml-3 -mr-1 h-5 w-5 text-white"
+                viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510"
+                xml:space="preserve"
+              >
+                <g>
+                  <g id="directions">
+                    <path
+                      d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
+        <div
+          class="max-w-3xl mx-auto"
+          data-aos="fade-up"
+          data-aos-duration="500"
+        >
+          <iframe
+            class="rounded-md"
+            width="100%"
+            height="400"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14864.763692170747!2d83.60038742745786!3d21.34296317326246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a214aa344498829%3A0x9d0f59ed960ebd8e!2sJaysingh%20Kalyan%20Mandap!5e0!3m2!1sen!2sin!4v1623867833035!5m2!1sen!2sin"
           ></iframe>
         </div>
       </div>
@@ -413,7 +487,7 @@
         class="w-64 mx-auto mt-12"
       />
 
-      <div
+      <!-- <div
         class="text-center mt-12 mb-10 font-display text-xl md:text-3xl"
         data-aos="fade-up"
         data-aos-duration="400"
@@ -428,7 +502,7 @@
         data-aos-duration="500"
       >
         <LazyYoutubeVideo src="https://www.youtube.com/embed/l866Eg72Ewk" />
-      </div>
+      </div> -->
       <div
         class="flex flex-wrap align-center justify-center mt-16 px-4"
         data-aos="fade-up"
@@ -513,10 +587,10 @@
 
       <div class="mt-16">
         <img
-          alt="Pritesh & Ipsita"
+          alt="Chiku & Deepa"
           data-aos="fade-up"
           data-aos-duration="400"
-          src="@/assets/images/footer-logo.svg"
+          src="@/assets/images/footer-logo.png"
           class="mx-auto w-24 md:w-32"
         />
       </div>
@@ -524,9 +598,9 @@
         <div>Made with love by</div>
         <a
           class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
-          href="https://soumyabishi.design"
+          href="https://www.instagram.com/ibibhu/"
           target="_blank"
-          >Soumya Ranjan Bishi</a
+          >Miku</a
         >
       </div>
       <div class="flex justify-center mt-8">
@@ -535,8 +609,8 @@
         >
           <ShareNetwork
             network="facebook"
-            url="https://pritesh-ipsita.co/"
-            title="Pritesh & Ipsita | We’re getting married!"
+            url="https://chiku-deepa.co/"
+            title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -551,8 +625,8 @@
         >
           <ShareNetwork
             network="twitter"
-            url="https://pritesh-ipsita.co/"
-            title="Pritesh & Ipsita | We’re getting married!"
+            url="https://chiku-deepa.co/"
+            title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -567,8 +641,8 @@
         >
           <ShareNetwork
             network="whatsapp"
-            url="https://pritesh-ipsita.co/"
-            title="Pritesh & Ipsita | We’re getting married!"
+            url="https://chiku-deepa.co/"
+            title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
