@@ -69,7 +69,7 @@
           <img
             data-aos="fade-up"
             data-aos-delay="600"
-            src="@/assets/images/photo.png"
+            src="@/assets/images/photo.jpg"
             class="w-full mx-auto hidden md:block"
             alt="Chiku & Deepa"
           />
@@ -77,7 +77,7 @@
           <img
             data-aos="fade-up"
             data-aos-delay="100"
-            src="@/assets/images/photo.png"
+            src="@/assets/images/photo.jpg"
             class="w-full mx-auto block md:hidden"
             alt="Chiku & Deepa"
           />
