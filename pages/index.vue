@@ -609,7 +609,7 @@
         >
           <ShareNetwork
             network="facebook"
-            url="https://chiku-deepa.co/"
+            url="https://chiku-deepa.netlify.app/"
             title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
@@ -625,7 +625,7 @@
         >
           <ShareNetwork
             network="twitter"
-            url="https://chiku-deepa.co/"
+            url="https://chiku-deepa.netlify.app/"
             title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
@@ -641,7 +641,7 @@
         >
           <ShareNetwork
             network="whatsapp"
-            url="https://chiku-deepa.co/"
+            url="https://chiku-deepa.netlify.app/"
             title="Chiku & Deepa | We’re getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"

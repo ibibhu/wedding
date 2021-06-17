@@ -20,7 +20,7 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://chiku-deepa.co/',
+        content: 'https://chiku-deepa.netlify.app/',
       },
       {
         hid: 'og:title',
@@ -46,7 +46,7 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://chiku-deepa.co/',
+        content: 'https://chiku-deepa.netlify.app/',
       },
       {
         hid: 'twitter:title',
