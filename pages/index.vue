@@ -509,7 +509,7 @@
             <img
               alt="Blessed"
               class="w-10 md:w-12 mx-auto"
-              src="@/assets/gif/blessed.gif"
+              src="https://res.cloudinary.com/maxix/image/upload/v1623986342/blessed_vqdfel.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
               {{ reactions.blessed | formatNumber }}
@@ -524,7 +524,7 @@
             <img
               alt="Clap"
               class="w-10 md:w-12 mx-auto"
-              src="@/assets/gif/clap.gif"
+              src="https://res.cloudinary.com/maxix/image/upload/v1623986338/clap_hcjxp0.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
               {{ reactions.clap | formatNumber }}
@@ -539,7 +539,7 @@
             <img
               alt="Love"
               class="w-10 md:w-12 mx-auto"
-              src="@/assets/gif/love.gif"
+              src="https://res.cloudinary.com/maxix/image/upload/v1623986340/love_qoxuvz.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
               {{ reactions.love | formatNumber }}
@@ -554,7 +554,7 @@
             <img
               alt="Superlike"
               class="w-10 md:w-12 mx-auto"
-              src="@/assets/gif/superlike.gif"
+              src="https://res.cloudinary.com/maxix/image/upload/v1623986343/superlike_qttsgq.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
               {{ reactions.superlike | formatNumber }}
@@ -569,7 +569,7 @@
             <img
               alt="Cool"
               class="w-10 md:w-12 mx-auto"
-              src="@/assets/gif/cool.gif"
+              src="https://res.cloudinary.com/maxix/image/upload/v1623986342/cool_qctmrh.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
               {{ reactions.cool | formatNumber }}
