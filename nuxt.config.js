@@ -64,7 +64,19 @@ export default {
         content: '/og-image.jpg',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        hid: 'gf-prefetch',
+        rel: 'dns-prefetch',
+        href: 'https://res.cloudinary.com/',
+      },
+      {
+        hid: 'gf-preconnect',
+        rel: 'preconnect',
+        href: 'https://res.cloudinary.com/',
+      },
+    ],
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
