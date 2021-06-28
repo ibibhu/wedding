@@ -1,9 +1,9 @@
 # Wedding invitation
-> Beautifully designed one pager website for Chiku & Deepa’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Devi & Deepa’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
 [See it live](https://chiku-deepa.netlify.app/).
 
-![Chiku & Deepa](https://chiku-deepa.netlify.app/og-image.jpg "Chiku & Deepa")
+![Devi & Deepa](https://chiku-deepa.netlify.app/og-image.jpg "Devi & Deepa")
 
 
 ## Bulit with

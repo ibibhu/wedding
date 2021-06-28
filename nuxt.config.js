@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Chiku & Deepa | We’re getting married!',
+    title: 'Devi & Deepa | We’re getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -25,7 +25,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Chiku & Deepa | We’re getting married!',
+        content: 'Devi & Deepa | We’re getting married!',
       },
       {
         hid: 'og:description',
@@ -41,7 +41,7 @@ export default {
       {
         hid: 'twitter:card',
         property: 'twitter:card',
-        content: 'summary_large_image',
+        content: 'summary',
       },
       {
         hid: 'twitter:url',
@@ -51,7 +51,7 @@ export default {
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Chiku & Deepa | We’re getting married!',
+        content: 'Devi & Deepa | We’re getting married!',
       },
       {
         hid: 'twitter:description',
