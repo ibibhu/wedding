@@ -1,19 +1,19 @@
 # Wedding invitation
-> Beautifully designed one pager website for Devi & Deepa’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://chiku-deepa.netlify.app/).
+> Beautifully designed one pager website for Mateen & Sadika’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-![Devi & Deepa](https://chiku-deepa.netlify.app/og-image.jpg "Devi & Deepa")
+[See it live](https://mateen-sadika.netlify.app/).
 
+![Mateen & Sadika](https://mateen-sadika.netlify.app/og-image.jpg 'Mateen & Sadika')
 
 ## Bulit with
+
 1. [Nuxt JS](https://nuxtjs.org/)
 2. [Firebase](https://firebase.google.com/)
 
 ## Deployment
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da357308-0580-49aa-a6fc-4053a7b2e26f/deploy-status)](https://app.netlify.com/sites/chiku-deepa/deploys)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da357308-0580-49aa-a6fc-4053a7b2e26f/deploy-status)](https://app.netlify.com/sites/mateen-sadika/deploys)
 
 ## Build Setup
 
@@ -34,15 +34,14 @@ $ npm run generate
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
-
-
 ## Acknowledgements
-* [Tailwind CSS](https://tailwindcss.com/)
-* [AOS - Animate on scroll library](https://github.com/michalsnik/aos)
-* [Lazyloading YouTube videos](https://github.com/andrewvasilchuk/vue-lazy-youtube-video)
-* [Vue-scroll-to](https://github.com/rigor789/vue-scrollto)
-* [Vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing)
-* [Heroicons](https://heroicons.dev/)
-* [Google Fonts](https://fonts.google.com/)
-* [Giphy](https://giphy.com)
-* [Freepik](https://www.freepik.com/)
+
+- [Tailwind CSS](https://tailwindcss.com/)
+- [AOS - Animate on scroll library](https://github.com/michalsnik/aos)
+- [Lazyloading YouTube videos](https://github.com/andrewvasilchuk/vue-lazy-youtube-video)
+- [Vue-scroll-to](https://github.com/rigor789/vue-scrollto)
+- [Vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing)
+- [Heroicons](https://heroicons.dev/)
+- [Google Fonts](https://fonts.google.com/)
+- [Giphy](https://giphy.com)
+- [Freepik](https://www.freepik.com/)
