@@ -442,10 +442,10 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-          Supreme Shubharambh, Kolhapur, Maharashtra 416003
+          Hotel Jotiba, Kolhapur, Maharashtra 416003
         </div>
         <a
-          href="https://goo.gl/maps/6z54su9MXrjX6fVP7"
+          href="https://goo.gl/maps/H9BoHVf47HijLExV7"
           class="my-6 inline-block"
           data-aos="fade-up"
           data-aos-duration="400"
@@ -490,7 +490,7 @@
             class="rounded-md"
             width="100%"
             height="400"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d379.13968514172797!2d74.27538084510279!3d16.702459980091252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc101a2b2f7e6d3%3A0xddeabeef4f3c0e85!2sSupreme%20Shubharambh%20Lawns%20%26%20Banquet%20Hall!5e0!3m2!1sen!2sin!4v1633107763356!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8254.725996567162!2d74.25876754864234!3d16.705822641474114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc101d0a4ed22f9%3A0xf9592d405792eaf2!2sHotel%20Jotiba%20BIGRAJA%20Ventures!5e0!3m2!1sen!2sin!4v1633428230418!5m2!1sen!2sin"
           ></iframe>
         </div>
       </div>
