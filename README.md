@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da357308-0580-49aa-a6fc-4053a7b2e26f/deploy-status)](https://app.netlify.com/sites/amrita-bikramaditya/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb95f2e-a677-41d2-8a52-6ed32d9986de/deploy-status)](https://app.netlify.com/sites/amrita-bikramaditya/deploys)
 
 ## Build Setup
 

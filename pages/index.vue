@@ -45,7 +45,7 @@
     <div class="flex justify-center pt-20 px-4 md:py-4 min-h-screen">
       <div
         class="bg-hero-pattern w-full h-20 light-pattern bg-repeat-x absolute top-0 z-10"
-        style="zoom: 66%"
+        style="zoom: 65%"
         data-aos="fade-down"
         data-aos-delay="500"
       ></div>
