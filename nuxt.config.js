@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Mateen & Sadika | We’re getting married!',
+    title: 'Amrita & Bikramaditya | We’re getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -20,12 +20,12 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://mateen-sadika.netlify.app/',
+        content: 'https://amrita-bikramaditya.netlify.app/',
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Mateen & Sadika | We’re getting married!',
+        content: 'Amrita & Bikramaditya | We’re getting married!',
       },
       {
         hid: 'og:description',
@@ -46,12 +46,12 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://mateen-sadika.netlify.app/',
+        content: 'https://amrita-bikramaditya.netlify.app/',
       },
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Mateen & Sadika | We’re getting married!',
+        content: 'Amrita & Bikramaditya | We’re getting married!',
       },
       {
         hid: 'twitter:description',

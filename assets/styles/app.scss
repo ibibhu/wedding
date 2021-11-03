@@ -55,9 +55,9 @@
 }
 .confetti-piece {
   position: absolute;
-  width: 10px;
-  height: 30px;
-  background: #ffd300;
+  width: 40px;
+  height: 40px;
+  // background: #ffd300;
   top: 0;
   opacity: 0;
 }
@@ -153,24 +153,27 @@
   -webkit-animation-duration: 818ms;
 }
 .confetti-piece:nth-child(odd) {
-  background: #7431e8;
+  // background: #7431e8;
+  z-index: 100;
 }
 .confetti-piece:nth-child(even) {
-  z-index: 1;
+  z-index: 100;
 }
 .confetti-piece:nth-child(4n) {
-  width: 5px;
-  height: 12px;
+  // width: 5px;
+  // height: 12px;
   -webkit-animation-duration: 2000ms;
 }
 .confetti-piece:nth-child(3n) {
-  width: 3px;
-  height: 10px;
+  // width: 3px;
+  // height: 10px;
   -webkit-animation-duration: 2500ms;
   -webkit-animation-delay: 1000ms;
 }
 .confetti-piece:nth-child(4n-7) {
-  background: red;
+  // background: red;
+  -webkit-animation-duration: 2500ms;
+  -webkit-animation-delay: 1000ms;
 }
 @-webkit-keyframes make-it-rain {
   from {

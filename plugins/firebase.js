@@ -3,13 +3,13 @@ import 'firebase/firestore'
 import 'firebase/analytics'
 if (!firebase.apps.length) {
   const config = {
-    apiKey: 'AIzaSyDPplegLrIp-FMNFpOTXmynfITcTDTbDqU',
-    authDomain: 'mateen-sadika.firebaseapp.com',
-    projectId: 'mateen-sadika',
-    storageBucket: 'mateen-sadika.appspot.com',
-    messagingSenderId: '1072080240467',
-    appId: '1:1072080240467:web:713b08df1188fd883f2ba6',
-    measurementId: 'G-XPEYKX3Q91',
+    apiKey: 'AIzaSyAUh7dLZOQUZP31o6ZJXBIhcM-dMeWnV4k',
+    authDomain: 'bikycaughtitli.firebaseapp.com',
+    projectId: 'bikycaughtitli',
+    storageBucket: 'bikycaughtitli.appspot.com',
+    messagingSenderId: '1050640892741',
+    appId: '1:1050640892741:web:85ff9850063045a6e6f42c',
+    measurementId: 'G-02DN50XQ6N',
   }
   firebase.initializeApp(config)
   firebase.analytics()
