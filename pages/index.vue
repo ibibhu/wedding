@@ -670,7 +670,7 @@
           <ShareNetwork
             network="facebook"
             url="https://amrita-bikramaditya.netlify.app/"
-            title="Amrita & Bikramaditya | We’re getting married!"
+            title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -686,7 +686,7 @@
           <ShareNetwork
             network="twitter"
             url="https://amrita-bikramaditya.netlify.app/"
-            title="Amrita & Bikramaditya | We’re getting married!"
+            title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -702,7 +702,7 @@
           <ShareNetwork
             network="whatsapp"
             url="https://amrita-bikramaditya.netlify.app/"
-            title="Amrita & Bikramaditya | We’re getting married!"
+            title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
