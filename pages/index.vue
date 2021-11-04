@@ -416,7 +416,7 @@
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            SUNDAY<br />
+            WEDNESDAY<br />
             NOVEMBER 24, 2021
           </div>
           <div
@@ -627,7 +627,7 @@
             url="https://bikramaditya-amrita.netlify.app/"
             title="Bikramaditya & Amrita  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-facebook-button.svg"
@@ -643,7 +643,7 @@
             url="https://bikramaditya-amrita.netlify.app/"
             title="Bikramaditya & Amrita  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-twitter-button.svg"
@@ -659,7 +659,7 @@
             url="https://bikramaditya-amrita.netlify.app/"
             title="Bikramaditya & Amrita  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-whatsapp-button.svg"
