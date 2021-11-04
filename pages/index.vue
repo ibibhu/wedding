@@ -82,7 +82,7 @@
             data-aos-delay="400"
             class="text-xl md:text-2xl mt-2"
           >
-            We’re getting married!
+            Are getting married!
           </div>
         </div>
         <div class="w-full md:w-1/2 mt-5 md:mt-10">
@@ -300,7 +300,7 @@
           </svg>
         </div>
         <div data-aos="fade-up" data-aos-duration="400">
-          We invite you to <br />celebrate our wedding!
+          We invite you to our<br />youngest daughter's wedding!
         </div>
         <img
           data-aos="fade-up"
@@ -358,7 +358,7 @@
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">MARRIAGE</span>
+              <span class="highlight">HALDI</span>
             </span>
           </div>
           <div
@@ -374,7 +374,7 @@
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            11:30 AM Onwards
+            6:00 AM
           </div>
         </div>
         <div class="text-left pl-6 md:pl-16">
@@ -384,7 +384,7 @@
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">RECEPTION</span>
+              <span class="highlight">MARRIAGE</span>
             </span>
           </div>
           <div
@@ -392,15 +392,15 @@
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            WEDNESDAY<br />
-            NOVEMBER 23, 2021
+            SUNDAY<br />
+            NOVEMBER 21, 2021
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            7:00 PM Onwards
+            Lunch 11:30 AM Onwards
           </div>
         </div>
       </div>
@@ -411,7 +411,7 @@
           data-aos-duration="400"
         >
           <span class="highlight-container">
-            <span class="highlight">MEHENDI & SANGEET VENUE</span>
+            <span class="highlight">MEHENDI, SANGEET & HALDI VENUE</span>
           </span>
         </div>
         <div
@@ -542,75 +542,6 @@
           ></iframe>
         </div>
       </div>
-      <div class="mt-12 text-center">
-        <div
-          class="font-medium text-sm md:text-base tracking-wider mb-4"
-          data-aos="fade-up"
-          data-aos-duration="400"
-        >
-          <span class="highlight-container">
-            <span class="highlight">RECEPTION VENUE</span>
-          </span>
-        </div>
-        <div
-          class="font-medium"
-          translate="no"
-          data-aos="fade-up"
-          data-aos-duration="400"
-        >
-          Naduan, Odisha 758025
-        </div>
-        <a
-          href="https://goo.gl/maps/AT4USQCUceDtdva77"
-          class="my-6 inline-block"
-          data-aos="fade-up"
-          data-aos-duration="400"
-        >
-          <span class="inline-flex rounded-full shadow-sm">
-            <button
-              type="button"
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150"
-            >
-              Get direction
-
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                x="0px"
-                y="0px"
-                fill="#fff"
-                class="ml-3 -mr-1 h-5 w-5 text-white"
-                viewBox="0 0 510 510"
-                style="enable-background: new 0 0 510 510"
-                xml:space="preserve"
-              >
-                <g>
-                  <g id="directions">
-                    <path
-                      d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
-			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
-			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z"
-                    />
-                  </g>
-                </g>
-              </svg>
-            </button>
-          </span>
-        </a>
-        <div
-          class="max-w-3xl mx-auto"
-          data-aos="fade-up"
-          data-aos-duration="500"
-        >
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3720.1439272903103!2d86.0804771!3d21.1864407!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1eb1ce774a5601%3A0x319dda3edbe94755!2zMjHCsDExJzA3LjAiTiA4NsKwMDQnNTQuMSJF!5e0!3m2!1sen!2sin!4v1635962754541!5m2!1sen!2sin"
-            class="rounded-md"
-            width="100%"
-            height="400"
-            loading="lazy"
-          ></iframe>
-        </div>
-      </div>
       <img
         src="@/assets/images/footer-separator.svg"
         alt="Footer Separator"
@@ -622,8 +553,8 @@
         data-aos="fade-up"
         data-aos-duration="400"
       >
-        With Best Compliments
-        <span class="hidden md:inline"><br /></span>Amrita
+        Enjoy the wedding invitation video
+        <span class="hidden md:inline"><br /></span>
       </div>
       <div
         class="max-w-3xl rounded-md mx-auto"
@@ -631,26 +562,6 @@
         data-aos-duration="500"
       >
         <LazyYoutubeVideo src="https://www.youtube.com/embed/JmyD99bTgzs" />
-      </div>
-      <img
-        src="@/assets/images/footer-separator.svg"
-        alt="Footer Separator"
-        class="w-64 mx-auto mt-12"
-      />
-      <div
-        class="text-center mt-12 mb-10 font-display text-xl md:text-3xl"
-        data-aos="fade-up"
-        data-aos-duration="400"
-      >
-        With Best Compliments
-        <span class="hidden md:inline"><br /></span>Bikramaditya
-      </div>
-      <div
-        class="max-w-3xl rounded-md mx-auto"
-        data-aos="fade-up"
-        data-aos-duration="500"
-      >
-        <LazyYoutubeVideo src="https://www.youtube.com/embed/t_Xw6j-BhZ0" />
       </div>
       <div
         class="flex flex-wrap align-center justify-center mt-16 px-4"
@@ -749,7 +660,7 @@
           class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
           href="https://www.instagram.com/ibibhu/"
           target="_blank"
-          >ibibhu</a
+          >bibhu</a
         >
       </div>
       <div class="flex justify-center mt-8">
