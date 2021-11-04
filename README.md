@@ -1,10 +1,10 @@
 # Wedding invitation
 
-> Beautifully designed one pager website for Amrita & Bikramaditya’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Bikramaditya & Amrita ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://amrita-bikramaditya.netlify.app/).
+[See it live](https://bikramaditya-amrita.netlify.app/).
 
-![Amrita & Bikramaditya](https://amrita-bikramaditya.netlify.app/og-image.jpg 'Amrita & Bikramaditya')
+![Bikramaditya & Amrita ](https://bikramaditya-amrita.netlify.app/og-image.jpg 'Bikramaditya & Amrita ')
 
 ## Bulit with
 
@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb95f2e-a677-41d2-8a52-6ed32d9986de/deploy-status)](https://app.netlify.com/sites/amrita-bikramaditya/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb95f2e-a677-41d2-8a52-6ed32d9986de/deploy-status)](https://app.netlify.com/sites/bikramaditya-amrita/deploys)
 
 ## Build Setup
 
