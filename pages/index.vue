@@ -319,7 +319,7 @@
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">MEHENDI & SANGEET</span>
+              <span class="highlight">MEHENDI & SANGEET(MANGANA)</span>
             </span>
           </div>
           <div
