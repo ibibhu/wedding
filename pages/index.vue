@@ -672,7 +672,7 @@
             url="https://amrita-bikramaditya.netlify.app/"
             title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-facebook-button.svg"
@@ -688,7 +688,7 @@
             url="https://amrita-bikramaditya.netlify.app/"
             title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-twitter-button.svg"
@@ -704,7 +704,7 @@
             url="https://amrita-bikramaditya.netlify.app/"
             title="Amrita & Bikramaditya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation"
+            hashtags="wedding,invitation,BikyCaughtTitly"
           >
             <img
               src="@/assets/images/share-on-whatsapp-button.svg"
