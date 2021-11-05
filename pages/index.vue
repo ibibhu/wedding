@@ -615,6 +615,7 @@
           class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
           href="https://www.instagram.com/ibibhu/"
           target="_blank"
+          @click="updateReaction('profileB')"
           >bibhu</a
         >
       </div>
@@ -693,6 +694,7 @@ export default {
         love: 0,
         superlike: 0,
         cool: 0,
+        profileB: 0,
       },
       showArrow: false,
     }
