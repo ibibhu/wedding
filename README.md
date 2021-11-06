@@ -1,10 +1,10 @@
 # Wedding invitation
 
-> Beautifully designed one pager website for Bikramaditya & Amrita ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Abinash & Pravanjana ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
 [See it live](https://bikramaditya-amrita.netlify.app/).
 
-![Bikramaditya & Amrita ](https://bikramaditya-amrita.netlify.app/og-image.jpg 'Bikramaditya & Amrita ')
+![Abinash & Pravanjana ](https://bikramaditya-amrita.netlify.app/og-image.jpg 'Abinash & Pravanjana ')
 
 ## Bulit with
 

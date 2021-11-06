@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Bikramaditya & Amrita  | Are getting married!',
+    title: 'Abinash & Pravanjana  | Are getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -25,7 +25,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Bikramaditya & Amrita  | Are getting married!',
+        content: 'Abinash & Pravanjana  | Are getting married!',
       },
       {
         hid: 'og:description',
@@ -51,7 +51,7 @@ export default {
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Bikramaditya & Amrita  | Are getting married!',
+        content: 'Abinash & Pravanjana  | Are getting married!',
       },
       {
         hid: 'twitter:description',
