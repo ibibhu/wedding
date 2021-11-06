@@ -52,7 +52,7 @@
       <div class="flex flex-wrap items-center max-w-6xl mx-auto mt-5 md:mt-6">
         <div class="w-full md:w-1/2 text-center">
           <div
-            class="text-red-700 text-md md:text-xl font-medium mb-3"
+            class="text-yellow-600 text-md md:text-xl font-medium mb-3"
             data-aos="fade-up"
             data-aos-delay="400"
           >
@@ -68,7 +68,7 @@
           >
             <path
               d="M364.48 159.4C365.28 160.627 365.68 161.8 365.68 162.92C365.68 166.173 363.333 168.76 358.64 170.68C354.907 172.227 351.173 172.973 347.44 172.92C349.413 174.573 350.4 176.653 350.4 179.16C350.4 184.227 347.653 188.493 342.16 191.96C337.307 195.053 332.213 196.6 326.88 196.6C321.547 196.6 317.04 195.453 313.36 193.16C309.04 190.44 306.88 186.573 306.88 181.56C306.88 175.907 309.413 171.16 314.48 167.32C318.853 164.013 324.053 162.04 330.08 161.4C328.533 159.373 327.787 156.973 327.84 154.2C328 148.973 330.853 144.627 336.4 141.16C341.253 138.173 346.507 136.707 352.16 136.76C358.56 136.867 361.76 139.213 361.76 143.8C361.76 145.293 361.307 146.653 360.4 147.88C359.493 149.107 358.32 149.72 356.88 149.72C355.813 149.72 354.907 149.347 354.16 148.6C353.413 147.853 353.067 146.947 353.12 145.88C353.173 143.427 354.453 142.227 356.96 142.28C358.4 142.28 359.28 142.76 359.6 143.72C359.653 143.4 359.68 143.08 359.68 142.76C359.68 140.253 357.867 138.973 354.24 138.92C348.907 138.813 343.707 141 338.64 145.48C336.88 147.027 335.387 148.92 334.16 151.16C332.773 153.613 332.08 155.88 332.08 157.96C332.08 159.133 332.32 160.2 332.8 161.16C336.587 161 338.8 160.947 339.44 161C341.947 161.213 343.2 162.12 343.2 163.72C343.2 165.267 341.867 166.04 339.2 166.04C336.213 166.04 333.52 164.867 331.12 162.52C326.32 163.213 322.373 165.507 319.28 169.4C316.24 173.293 314.72 177.693 314.72 182.6C314.72 186.44 315.787 189.56 317.92 191.96C320.107 194.36 323.093 195.56 326.88 195.56C331.307 195.56 335.52 194.093 339.52 191.16C343.787 187.96 346.027 184.227 346.24 179.96C346.347 177.667 345.12 175.933 342.56 174.76C340.587 173.853 338.32 173.4 335.76 173.4C332.987 173.4 330.453 173.907 328.16 174.92C325.28 176.2 323.653 178.013 323.28 180.36C322.853 183.187 324.613 185.64 328.56 187.72C329.04 187.987 329.28 188.413 329.28 189C329.28 189.32 329.147 189.48 328.88 189.48C327.28 189.48 325.413 188.227 323.28 185.72C321.147 183.213 320.08 181 320.08 179.08C320.08 175.987 321.893 173.667 325.52 172.12C328.24 170.947 331.387 170.36 334.96 170.36H349.12C351.573 170.36 354.533 169.64 358 168.2C362.213 166.44 364.32 164.467 364.32 162.28C364.32 161.533 364.08 160.787 363.6 160.04C363.12 159.347 363.2 159 363.84 159C364.107 159 364.32 159.133 364.48 159.4ZM339.36 162.36C337.227 162.2 335.253 162.173 333.44 162.28C334.773 163.88 336.693 164.68 339.2 164.68C340.96 164.68 341.84 164.36 341.84 163.72C341.84 162.92 341.013 162.467 339.36 162.36Z"
-              fill="#C1272D"
+              fill="#d69e2e"
             />
             <path
               fill-rule="evenodd"
@@ -139,10 +139,10 @@
           v-if="showArrow"
           id="arrow"
           v-scroll-to="'#celebrate'"
-          class="absolute bottom-0 mb-8 hidden md:block cursor-pointer hover:bg-red-700 border-red-700 border rounded-full p-4 transition ease-in-out duration-150"
+          class="absolute bottom-0 mb-8 hidden md:block cursor-pointer hover:bg-yellow-700 border-yellow-700 border rounded-full p-4 transition ease-in-out duration-150"
         >
           <svg
-            class="w-6 h-6 text-red-700 group-hover:text-white"
+            class="w-6 h-6 text-yellow-700 group-hover:text-white"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -347,7 +347,7 @@
             </span>
           </div>
           <div
-            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
+            class="font-sans text-yellow-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
             data-aos="fade-right"
             data-aos-duration="400"
           >
@@ -386,7 +386,7 @@
             </span>
           </div>
           <div
-            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
+            class="font-sans text-yellow-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
             data-aos="fade-right"
             data-aos-duration="400"
           >
@@ -412,7 +412,7 @@
             </span>
           </div>
           <div
-            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
+            class="font-sans text-yellow-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
             data-aos="fade-left"
             data-aos-duration="400"
           >
@@ -455,7 +455,7 @@
           <span class="inline-flex rounded-full shadow-sm">
             <button
               type="button"
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150"
+              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-yellow-700 hover:bg-yellow-600 focus:outline-none focus:border-yellow-800 focus:shadow-outline-indigo active:bg-yellow-800 transition ease-in-out duration-150"
             >
               Get direction
 
@@ -612,7 +612,7 @@
       <div class="mt-5 text-center py-4 text-sm">
         <div>Made with love by</div>
         <a
-          class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
+          class="text-base border-b border-gray-400 inline-block hover:text-yellow-700 hover:border-yellow-700"
           href="https://www.instagram.com/ibibhu/"
           target="_blank"
           @click="updateReaction('profileB')"
