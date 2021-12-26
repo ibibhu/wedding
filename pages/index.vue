@@ -328,7 +328,7 @@
             data-aos-duration="400"
           >
             SATURDAY<br />
-            NOVEMBER 20, 2021
+            JANUARY 22, 2022
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
