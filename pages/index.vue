@@ -373,7 +373,7 @@
       <!-- Reception desc text ends here -->
 
       <div class="flex justify-center">
-        <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
+        <div class="text-center">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
             data-aos="fade-right"
