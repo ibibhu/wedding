@@ -300,7 +300,7 @@
           </svg>
         </div>
         <div data-aos="fade-up" data-aos-duration="400">
-          We invite you to our only<br />son's wedding!
+          We invite you to our <br />son's wedding!
         </div>
         <img
           data-aos="fade-up"
