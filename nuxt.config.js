@@ -20,7 +20,7 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://bikramaditya-amrita.netlify.app/',
+        content: 'https://abinash-pravanjana.netlify.app/',
       },
       {
         hid: 'og:title',
@@ -46,7 +46,7 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://bikramaditya-amrita.netlify.app/',
+        content: 'https://abinash-pravanjana.netlify.app/',
       },
       {
         hid: 'twitter:title',
@@ -66,6 +66,10 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Vidaloka&display=swap",
+      },
       {
         hid: 'gf-prefetch',
         rel: 'dns-prefetch',

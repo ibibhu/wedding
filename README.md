@@ -2,9 +2,9 @@
 
 > Beautifully designed one pager website for Abinash & Pravanjana ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://bikramaditya-amrita.netlify.app/).
+[See it live](https://abinash-pravanjana.netlify.app/).
 
-![Abinash & Pravanjana ](https://bikramaditya-amrita.netlify.app/og-image.jpg 'Abinash & Pravanjana ')
+![Abinash & Pravanjana ](https://abinash-pravanjana.netlify.app/og-image.jpg 'Abinash & Pravanjana ')
 
 ## Bulit with
 
@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb95f2e-a677-41d2-8a52-6ed32d9986de/deploy-status)](https://app.netlify.com/sites/bikramaditya-amrita/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f11a1f8b-86c6-479a-8fa4-373646fc1309/deploy-status)](https://app.netlify.com/sites/abinash-pravanjana/deploys)
 
 ## Build Setup
 

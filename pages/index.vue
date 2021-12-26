@@ -1,4 +1,9 @@
 <template>
+  <style>
+  html {
+    font-family: "Oxygen";
+  }
+  </style>
   <div class="overflow-hidden">
     <div class="confetti">
       <div class="confetti-piece">
