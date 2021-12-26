@@ -1,8 +1,3 @@
-<style>
-html {
-  font-family: "Oxygen";
-}
-</style>
 <template>
   <div class="overflow-hidden">
     <div class="confetti">
@@ -409,7 +404,7 @@ html {
           </div>
         </div>
       </div>
-      
+
       <!-- BARANUGAMANA venue text starts here -->
 
       <div class="mt-12 text-center">
@@ -489,8 +484,7 @@ html {
       />
 
       <!-- Baranagu Separator ends here -->
-      
-      
+
       <!-- RECEPTION venue text starts here -->
 
       <div class="mt-12 text-center">
@@ -570,7 +564,6 @@ html {
       />
 
       <!-- Separator ends here -->
-
 
       <div
         class="text-center mt-12 mb-10 font-display text-xl md:text-3xl"
