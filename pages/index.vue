@@ -423,10 +423,10 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-          Naduan, Keonjhar, Odisha 758025
+          Crystal Heritage, Tankapani road, near Sai temple, Bhubaneswar
         </div>
         <a
-          href="https://goo.gl/maps/UqfwYiBppyYwG1XK9"
+          href="https://goo.gl/maps/TjPBrNbDRKMSe7AQA"
           class="my-6 inline-block"
           data-aos="fade-up"
           data-aos-duration="400"
@@ -468,7 +468,7 @@
           data-aos-duration="500"
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7530.480912032252!2d84.8308066249487!3d19.31536944780396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d50a246cc8a7d%3A0x3ce594acdecec9fe!2sBasudev%20Nagar%2C%20Brahmapur%2C%20Odisha%20760010!5e0!3m2!1sen!2sin!4v1640532024351!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.40575284242!2d85.86159291497388!3d20.242000286429825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a0db8adc98f7%3A0x2eaa455e73513ca3!2sCrystal%20Heritage!5e0!3m2!1sen!2sin!4v1640532281907!5m2!1sen!2sin"
             class="rounded-md"
             width="100%"
             height="400"
@@ -689,7 +689,7 @@
         >
           <ShareNetwork
             network="facebook"
-            url="https://bikramaditya-amrita.netlify.app/"
+            url="https://abinash-pravanjana.netlify.app/"
             title="Abinash & Pravanjana  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
@@ -705,7 +705,7 @@
         >
           <ShareNetwork
             network="twitter"
-            url="https://bikramaditya-amrita.netlify.app/"
+            url="https://abinash-pravanjana.netlify.app/"
             title="Abinash & Pravanjana  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
@@ -721,7 +721,7 @@
         >
           <ShareNetwork
             network="whatsapp"
-            url="https://bikramaditya-amrita.netlify.app/"
+            url="https://abinash-pravanjana.netlify.app/"
             title="Abinash & Pravanjana  | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
@@ -772,7 +772,7 @@ export default {
   },
   methods: {
     async updateReaction(name) {
-      const ref = fireDb.collection('reactions').doc('3vjaw54r0cwyXKBnbkbA')
+      const ref = fireDb.collection('reactions').doc('gandhi')
       const document = {
         [name]: this.reactions[name] + 1,
       }
@@ -783,7 +783,7 @@ export default {
       }
     },
     fetchReactions() {
-      const ref = fireDb.collection('reactions').doc('3vjaw54r0cwyXKBnbkbA')
+      const ref = fireDb.collection('reactions').doc('gandhi')
       ref.onSnapshot(
         (docSnapshot) => {
           this.reactions = docSnapshot.data()
