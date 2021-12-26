@@ -317,7 +317,7 @@
         <div class="text-center">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="500"
           >
             <span class="highlight-container">
@@ -326,7 +326,7 @@
           </div>
           <div
             class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="400"
           >
             SATURDAY<br />
@@ -376,7 +376,7 @@
         <div class="text-center">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="500"
           >
             <span class="highlight-container">
@@ -385,7 +385,7 @@
           </div>
           <div
             class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
-            data-aos="fade-right"
+            data-aos="fade-up"
             data-aos-duration="400"
           >
             SUNDAY<br />
