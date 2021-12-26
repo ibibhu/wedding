@@ -314,14 +314,14 @@
     <!-- HALDI desc text starts here -->
       
       <div class="flex justify-center">
-        <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
+        <div class="text-center">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
             data-aos="fade-right"
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">HALDI</span>
+              <span class="highlight">HALDI, MEHENDI & SANGEET</span>
             </span>
           </div>
           <div
@@ -332,38 +332,23 @@
             SATURDAY<br />
             JANUARY 22, 2022
           </div>
-          <div
-            class="font-sans text-sm md:text-base font-medium"
-            data-aos="fade-right"
-            data-aos-duration="400"
-          >
-            08:00 AM Onwards
+          <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
+            <div
+              class="font-sans text-sm md:text-base font-medium"
+              data-aos="fade-right"
+              data-aos-duration="400"
+            >
+              08:00 AM Onwards
+            </div>
           </div>
-        </div>
-        <div class="text-left pl-6 md:pl-16">
-          <div
-            class="font-medium text-sm md:text-base tracking-wider"
-            data-aos="fade-left"
-            data-aos-duration="500"
-          >
-            <span class="highlight-container">
-              <span class="highlight">MEHENDI & SANGEET</span>
-            </span>
-          </div>
-          <div
-            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
-            data-aos="fade-left"
-            data-aos-duration="400"
-          >
-            SATURDAY<br />
-            JANUARY 22, 2022
-          </div>
-          <div
-            class="font-sans text-sm md:text-base font-medium"
-            data-aos="fade-left"
-            data-aos-duration="400"
-          >
-            11:00 AM Onwards
+          <div class="text-left pl-6 md:pl-16">
+            <div
+                class="font-sans text-sm md:text-base font-medium"
+                data-aos="fade-right"
+                data-aos-duration="400"
+              >
+                11:00 AM Onwards
+              </div>
           </div>
         </div>
       </div>
