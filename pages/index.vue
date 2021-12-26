@@ -672,7 +672,7 @@
         />
       </div>
       <div class="mt-5 text-center py-4 text-sm">
-        <div>Made with love by</div>
+        <div>With ❤ by</div>
         <a
           class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
           href="https://www.instagram.com/ibibhu/"
