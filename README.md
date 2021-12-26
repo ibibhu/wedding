@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f11a1f8b-86c6-479a-8fa4-373646fc1309/deploy-status)](https://app.netlify.com/sites/pravanjana-abinash/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37d3e5e6-197f-4639-bbeb-1735cd9af260/deploy-status)](https://app.netlify.com/sites/pravanjana-abinash/deploys)
 
 ## Build Setup
 
