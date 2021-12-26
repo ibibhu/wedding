@@ -91,7 +91,7 @@
             data-aos-delay="600"
             src="@/assets/images/photo.jpg"
             class="w-full mx-auto hidden md:block"
-            alt="Abinash & Pravanjana "
+            alt="Pravanjana & Abinash"
           />
 
           <img
@@ -99,7 +99,7 @@
             data-aos-delay="100"
             src="@/assets/images/photo.jpg"
             class="w-full mx-auto block md:hidden"
-            alt="Abinash & Pravanjana "
+            alt="Pravanjana & Abinash"
           />
         </div>
       </div>
@@ -300,7 +300,7 @@
           </svg>
         </div>
         <div data-aos="fade-up" data-aos-duration="400">
-          We invite you to our <br />son's wedding!
+          We invite you to our <br />daughter's wedding!
         </div>
         <img
           data-aos="fade-up"
@@ -311,8 +311,10 @@
         />
       </div>
 
+    <!-- HALDI desc text starts here -->
+      
       <div class="flex justify-center">
-        <div class="text-center">
+        <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
             data-aos="fade-right"
@@ -335,10 +337,37 @@
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            10:00 AM Onwards
+            08:00 AM Onwards
+          </div>
+        </div>
+        <div class="text-left pl-6 md:pl-16">
+          <div
+            class="font-medium text-sm md:text-base tracking-wider"
+            data-aos="fade-left"
+            data-aos-duration="500"
+          >
+            <span class="highlight-container">
+              <span class="highlight">MEHENDI & SANGEET</span>
+            </span>
+          </div>
+          <div
+            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
+            data-aos="fade-left"
+            data-aos-duration="400"
+          >
+            SATURDAY<br />
+            JANUARY 22, 2022
+          </div>
+          <div
+            class="font-sans text-sm md:text-base font-medium"
+            data-aos="fade-left"
+            data-aos-duration="400"
+          >
+            11:00 AM Onwards
           </div>
         </div>
       </div>
+      
       <div
         class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
       >
@@ -350,6 +379,11 @@
           alt="Separator"
         />
       </div>
+
+      <!-- HALDI desc text ends here -->
+      
+      <!-- Reception desc text ends here -->
+
       <div class="flex justify-center">
         <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
           <div
@@ -358,7 +392,7 @@
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">BARANUGAMANA</span>
+              <span class="highlight">RECEPTION</span>
             </span>
           </div>
           <div
@@ -374,7 +408,7 @@
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            10:00 AM Onwards
+            11:30 AM Onwards
           </div>
         </div>
         <div class="text-left pl-6 md:pl-16">
@@ -384,7 +418,7 @@
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">RECEPTION</span>
+              <span class="highlight">MARRIAGE & PANIGRAHAN</span>
             </span>
           </div>
           <div
@@ -392,20 +426,22 @@
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            MONDAY<br />
-            JANUARY 24, 2022
+            SUNDAY<br />
+            JANUARY 23, 2022
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            Dinner 6:00 PM Onwards
+            01:45 PM Onwards
           </div>
         </div>
       </div>
 
-      <!-- BARANUGAMANA venue text starts here -->
+      <!-- Reception desc text ends here -->
+
+      <!-- Haldi venue text starts here -->
 
       <div class="mt-12 text-center">
         <div
@@ -414,7 +450,7 @@
           data-aos-duration="400"
         >
           <span class="highlight-container">
-            <span class="highlight">BARANUGAMANA VENUE</span>
+            <span class="highlight">HALDI & SANGEET VENUE</span>
           </span>
         </div>
         <div
@@ -423,10 +459,10 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-          Crystal Heritage, Tankapani road, near Sai temple, Bhubaneswar
+          GGP Colony, Jagannath Nagar, Rasulgarh, Bhubaneswar
         </div>
         <a
-          href="https://goo.gl/maps/TjPBrNbDRKMSe7AQA"
+          href="https://goo.gl/maps/HWwtQsUvcGQzrn3w9"
           class="my-6 inline-block"
           data-aos="fade-up"
           data-aos-duration="400"
@@ -468,7 +504,7 @@
           data-aos-duration="500"
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.40575284242!2d85.86159291497388!3d20.242000286429825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a0db8adc98f7%3A0x2eaa455e73513ca3!2sCrystal%20Heritage!5e0!3m2!1sen!2sin!4v1640532281907!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3742.3796643118526!2d85.86488161492032!3d20.284546286406222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a190a0af2c54245%3A0x418840ead9199a29!2sLane%20Number%204%2C%20GGP%20Colony%2C%20Jagannath%20Nagar%2C%20Rasulgarh%2C%20Bhubaneswar%2C%20Odisha%20751010!5e0!3m2!1sen!2sin!4v1640542165404!5m2!1sen!2sin"
             class="rounded-md"
             width="100%"
             height="400"
@@ -503,10 +539,10 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-          Saanaira Resorts, Gopalpur Sea Beach, Odisha
+          Crystal Heritage, Tankapani road, near Sai temple, Bhubaneswar
         </div>
         <a
-          href="https://goo.gl/maps/sFupRHHK6npRFzW3A"
+          href="https://goo.gl/maps/DP7sEUdrvjSt4VRT8"
           class="my-6 inline-block"
           data-aos="fade-up"
           data-aos-duration="400"
@@ -548,7 +584,7 @@
           data-aos-duration="500"
         >
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.5480316037924!2d84.90803591495856!3d19.258519686983504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3d59badd67f227%3A0x137d3c0f1eba2d3!2sSaanaira%20Resorts%20%26%20Spa!5e0!3m2!1sen!2sin!4v1640531584630!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.40575284242!2d85.86159291497388!3d20.242000286429825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a0db8adc98f7%3A0x2eaa455e73513ca3!2sCrystal%20Heritage!5e0!3m2!1sen!2sin!4v1640542315503!5m2!1sen!2sin"
             class="rounded-md"
             width="100%"
             height="400"
@@ -664,7 +700,7 @@
 
       <div class="mt-16">
         <img
-          alt="Abinash & Pravanjana "
+          alt="Pravanjana & Abinash"
           data-aos="fade-up"
           data-aos-duration="400"
           src="@/assets/images/footer-logo.png"
@@ -687,8 +723,8 @@
         >
           <ShareNetwork
             network="facebook"
-            url="https://abinash-pravanjana.netlify.app/"
-            title="Abinash & Pravanjana  | Are getting married!"
+            url="https://pravanjana-abinash.netlify.app/"
+            title="Pravanjana & Abinash | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
           >
@@ -703,8 +739,8 @@
         >
           <ShareNetwork
             network="twitter"
-            url="https://abinash-pravanjana.netlify.app/"
-            title="Abinash & Pravanjana  | Are getting married!"
+            url="https://pravanjana-abinash.netlify.app/"
+            title="Pravanjana & Abinash | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
           >
@@ -719,8 +755,8 @@
         >
           <ShareNetwork
             network="whatsapp"
-            url="https://abinash-pravanjana.netlify.app/"
-            title="Abinash & Pravanjana  | Are getting married!"
+            url="https://pravanjana-abinash.netlify.app/"
+            title="Pravanjana & Abinash | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation,BikyCaughtTitly"
           >

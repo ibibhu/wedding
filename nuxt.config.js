@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Abinash & Pravanjana  | Are getting married!',
+    title: 'Pravanjana & Abinash  | Are getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -20,12 +20,12 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://abinash-pravanjana.netlify.app/',
+        content: 'https://pravanjana-abinash.netlify.app/',
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Abinash & Pravanjana  | Are getting married!',
+        content: 'Pravanjana & Abinash  | Are getting married!',
       },
       {
         hid: 'og:description',
@@ -46,12 +46,12 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://abinash-pravanjana.netlify.app/',
+        content: 'https://pravanjana-abinash.netlify.app/',
       },
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Abinash & Pravanjana  | Are getting married!',
+        content: 'Pravanjana & Abinash | Are getting married!',
       },
       {
         hid: 'twitter:description',
