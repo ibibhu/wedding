@@ -717,7 +717,29 @@
       </div>
     </div>
 
-    <div class="w-full md:w-1/2 mt-5 md:mt-10">
+
+    <div
+      class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
+    >
+      <img
+        data-aos="fade-up"
+        data-aos-duration="400"
+        src="@/assets/images/separator.svg"
+        class="w-64 mx-auto mt-12"
+        alt="Separator"
+      />
+    </div>
+
+    <div
+        class="text-center mt-8 mb-6 font-display text-xl md:text-3xl"
+        data-aos="fade-up"
+        data-aos-duration="400"
+      >
+      With best compliments, The Routs
+      <span class="hidden md:inline"><br /></span>
+    </div>
+
+    <div class="w-1/2 m-auto md:w-1/2 mt-2 md:mt-6">
       <img
         data-aos="fade-up"
         data-aos-delay="600"
