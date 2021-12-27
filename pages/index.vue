@@ -583,7 +583,8 @@
           data-aos="fade-up"
           data-aos-duration="400"
         >
-        With best compliments, The Routs
+        With best compliments,<br /> 
+        The Routs
         <span class="hidden md:inline"><br /></span>
       </div>
 
@@ -602,6 +603,18 @@
           src="@/assets/images/rout-family.jpeg"
           class="w-full mx-auto block md:hidden"
           alt="Pravanjana & Abinash"
+        />
+      </div>
+      
+      <div
+        class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
+      >
+        <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
         />
       </div>
 
