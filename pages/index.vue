@@ -739,7 +739,7 @@
       <span class="hidden md:inline"><br /></span>
     </div>
 
-    <div class="w-1/2 m-auto md:w-1/2 mt-2 md:mt-6">
+    <div class="w-1/2 m-auto md:w-3/4 mt-2 md:mt-6">
       <img
         data-aos="fade-up"
         data-aos-delay="600"
