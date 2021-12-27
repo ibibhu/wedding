@@ -721,7 +721,7 @@
       <img
         data-aos="fade-up"
         data-aos-delay="600"
-        src="@/assets/images/rout-family.jpg"
+        src="@/assets/images/rout-family.jpeg"
         class="w-full mx-auto hidden md:block"
         alt="Pravanjana & Abinash"
       />
@@ -729,7 +729,7 @@
       <img
         data-aos="fade-up"
         data-aos-delay="100"
-        src="@/assets/images/rout-family.jpg"
+        src="@/assets/images/rout-family.jpeg"
         class="w-full mx-auto block md:hidden"
         alt="Pravanjana & Abinash"
       />
