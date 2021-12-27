@@ -700,7 +700,7 @@
         </div>
       </div>
 
-      <div class="mt-16">
+      <div class="mt-12">
         <img
           alt="Pravanjana & Abinash"
           data-aos="fade-up"
