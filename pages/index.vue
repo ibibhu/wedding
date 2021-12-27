@@ -332,26 +332,12 @@
             SATURDAY<br />
             JANUARY 22, 2022
           </div>
-          <div class="flex justify-center">
-            <div class="text-left pr-6 md:pr-16 border-r border-gray-400">
-              <div
-                class="font-sans text-sm md:text-base font-medium"
-                data-aos="fade-left"
-                data-aos-duration="400"
-              >
-                08:00 AM onwards
-              </div>
-            </div>
-
-            <div class="text-right pl-6 md:pl-16">
-              <div
-                class="font-sans text-sm md:text-base font-medium"
-                data-aos="fade-right"
-                data-aos-duration="400"
-              >
-                11:00 AM onwards
-              </div>
-            </div>
+          <div
+            class="font-sans text-sm md:text-base font-medium"
+            data-aos="fade-up"
+            data-aos-duration="400"
+          >
+            11:00 AM Onwards
           </div>
         </div>
       </div>
@@ -391,26 +377,12 @@
             SUNDAY<br />
             JANUARY 23, 2022
           </div>
-          <div class="flex justify-center">
-            <div class="text-left pr-6 md:pr-16 border-r border-gray-400">
-              <div
-                class="font-sans text-sm md:text-base font-medium"
-                data-aos="fade-left"
-                data-aos-duration="400"
-              >
-                11:30 AM onwards
-              </div>
-            </div>
-
-            <div class="text-right pl-6 md:pl-16">
-              <div
-                class="font-sans text-sm md:text-base font-medium"
-                data-aos="fade-right"
-                data-aos-duration="400"
-              >
-                Lunch 01:45 PM onwards
-              </div>
-            </div>
+          <div
+            class="font-sans text-sm md:text-base font-medium"
+            data-aos="fade-up"
+            data-aos-duration="400"
+          >
+            11:30 AM Onwards
           </div>
         </div>
       </div>
