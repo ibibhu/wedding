@@ -739,7 +739,25 @@
       <span class="hidden md:inline"><br /></span>
     </div>
 
-    <div class="w-1/2 m-auto md:w-3/4 mt-2 md:mt-6">
+    <div class="md:w-full md:m-auto md:mt-4 hidden">
+      <img
+        data-aos="fade-up"
+        data-aos-delay="600"
+        src="@/assets/images/rout-family.jpeg"
+        class="w-full mx-auto hidden md:block"
+        alt="Pravanjana & Abinash"
+      />
+
+      <img
+        data-aos="fade-up"
+        data-aos-delay="100"
+        src="@/assets/images/rout-family.jpeg"
+        class="w-full mx-auto block md:hidden"
+        alt="Pravanjana & Abinash"
+      />
+    </div>
+
+    <div class="w-1/2 m-auto mt-2 md:hidden">
       <img
         data-aos="fade-up"
         data-aos-delay="600"
