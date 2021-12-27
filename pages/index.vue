@@ -562,7 +562,7 @@
         data-aos="fade-up"
         data-aos-duration="500"
       >
-        <LazyYoutubeVideo src="https://www.youtube.com/embed/t_Xw6j-BhZ0" />
+        <LazyYoutubeVideo src="https://youtu.be/ZiEsRa3yie0" />
       </div>
 
 
