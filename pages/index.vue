@@ -584,7 +584,7 @@
           data-aos-duration="400"
         >
         With best compliments<br /> 
-        The Routs
+        Manorama Rout & Prasanta Kumar Rout
         <span class="hidden md:inline"><br /></span>
       </div>
 
