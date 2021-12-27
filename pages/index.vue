@@ -564,6 +564,47 @@
       >
         <LazyYoutubeVideo src="https://www.youtube.com/embed/t_Xw6j-BhZ0" />
       </div>
+
+
+      <div
+        class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
+      >
+        <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
+        />
+      </div>
+
+      <div
+          class="text-center mt-8 mb-6 font-display text-xl md:text-3xl"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+        With best compliments, The Routs
+        <span class="hidden md:inline"><br /></span>
+      </div>
+
+      <div class="w-full m-auto mt-4">
+        <img
+          data-aos="fade-up"
+          data-aos-delay="600"
+          src="@/assets/images/rout-family.jpeg"
+          class="w-full mx-auto hidden md:block"
+          alt="Pravanjana & Abinash"
+        />
+
+        <img
+          data-aos="fade-up"
+          data-aos-delay="100"
+          src="@/assets/images/rout-family.jpeg"
+          class="w-full mx-auto block md:hidden"
+          alt="Pravanjana & Abinash"
+        />
+      </div>
+
       <div
         class="flex flex-wrap align-center justify-center mt-16 px-4"
         data-aos="fade-up"
@@ -718,62 +759,6 @@
     </div>
 
 
-    <div
-      class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
-    >
-      <img
-        data-aos="fade-up"
-        data-aos-duration="400"
-        src="@/assets/images/separator.svg"
-        class="w-64 mx-auto mt-12"
-        alt="Separator"
-      />
-    </div>
-
-    <div
-        class="text-center mt-8 mb-6 font-display text-xl md:text-3xl"
-        data-aos="fade-up"
-        data-aos-duration="400"
-      >
-      With best compliments, The Routs
-      <span class="hidden md:inline"><br /></span>
-    </div>
-
-    <div class="md:w-full md:m-auto md:mt-4 hidden">
-      <img
-        data-aos="fade-up"
-        data-aos-delay="600"
-        src="@/assets/images/rout-family.jpeg"
-        class="w-full mx-auto hidden md:block"
-        alt="Pravanjana & Abinash"
-      />
-
-      <img
-        data-aos="fade-up"
-        data-aos-delay="100"
-        src="@/assets/images/rout-family.jpeg"
-        class="w-full mx-auto block md:hidden"
-        alt="Pravanjana & Abinash"
-      />
-    </div>
-
-    <div class="w-1/2 m-auto mt-2 md:hidden">
-      <img
-        data-aos="fade-up"
-        data-aos-delay="600"
-        src="@/assets/images/rout-family.jpeg"
-        class="w-full mx-auto hidden md:block"
-        alt="Pravanjana & Abinash"
-      />
-
-      <img
-        data-aos="fade-up"
-        data-aos-delay="100"
-        src="@/assets/images/rout-family.jpeg"
-        class="w-full mx-auto block md:hidden"
-        alt="Pravanjana & Abinash"
-      />
-    </div>
 
     <div class="bg-footer-pattern w-full h-20 footer-pattern bg-repeat-x"></div>
   </div>
