@@ -717,6 +717,24 @@
       </div>
     </div>
 
+    <div class="w-full md:w-1/2 mt-5 md:mt-10">
+      <img
+        data-aos="fade-up"
+        data-aos-delay="600"
+        src="@/assets/images/rout-family.jpg"
+        class="w-full mx-auto hidden md:block"
+        alt="Pravanjana & Abinash"
+      />
+
+      <img
+        data-aos="fade-up"
+        data-aos-delay="100"
+        src="@/assets/images/rout-family.jpg"
+        class="w-full mx-auto block md:hidden"
+        alt="Pravanjana & Abinash"
+      />
+    </div>
+
     <div class="bg-footer-pattern w-full h-20 footer-pattern bg-repeat-x"></div>
   </div>
 </template>
