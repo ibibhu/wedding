@@ -1,4 +1,4 @@
-# Wedding invitation
+# Wedding invitation []
 > Beautifully designed one pager website for Devi & Deepa’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
 [See it live](https://chiku-deepa.netlify.app/).
