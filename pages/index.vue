@@ -565,7 +565,6 @@
         <LazyYoutubeVideo src="https://www.youtube.com/embed/Tz0eDTc0iaQ" />
       </div>
 
-
       <div
         class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
       >
@@ -577,13 +576,12 @@
           alt="Separator"
         />
       </div>
-
       <div
-          class="text-center mt-8 mb-6 font-display text-xl md:text-3xl"
-          data-aos="fade-up"
-          data-aos-duration="400"
-        >
-        With best compliments<br /> 
+        class="text-center mt-8 mb-6 font-display text-xl md:text-3xl"
+        data-aos="fade-up"
+        data-aos-duration="400"
+      >
+        With best compliments<br />
         Manorama Rout & Prasanta Kumar Rout
         <span class="hidden md:inline"><br /></span>
       </div>
@@ -605,7 +603,7 @@
           alt="Pravanjana & Abinash"
         />
       </div>
-      
+
       <div
         class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
       >
@@ -770,8 +768,6 @@
         </div>
       </div>
     </div>
-
-
 
     <div class="bg-footer-pattern w-full h-20 footer-pattern bg-repeat-x"></div>
   </div>
