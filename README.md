@@ -1,10 +1,10 @@
 # Wedding invitation
 
-> Beautifully designed one pager website for Abinash & Pravanjana ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Tusaradri & Dinesh ’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://pravanjana-abinash.netlify.app/).
+[See it live](https://tusaradri-dinesh.netlify.app/).
 
-![Pravanjana & Abinash](https://pravanjana-abinash.netlify.app/og-image.jpg 'Pravanjana & Abinash')
+![Tusaradri & Dinesh](https://tusaradri-dinesh.netlify.app/og-image.jpg 'Tusaradri & Dinesh')
 
 ## Bulit with
 
@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/37d3e5e6-197f-4639-bbeb-1735cd9af260/deploy-status)](https://app.netlify.com/sites/pravanjana-abinash/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/37d3e5e6-197f-4639-bbeb-1735cd9af260/deploy-status)](https://app.netlify.com/sites/tusaradri-dinesh/deploys)
 
 ## Build Setup
 

@@ -2,7 +2,7 @@ export default {
   ssr: false,
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Pravanjana & Abinash  | Are getting married!',
+    title: 'Tusaradri & Dinesh  | Are getting married!',
     meta: [
       { charset: 'utf-8' },
       { name: 'google', content: 'notranslate' },
@@ -20,12 +20,12 @@ export default {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://pravanjana-abinash.netlify.app/',
+        content: 'https://tusaradri-dinesh.netlify.app/',
       },
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'Pravanjana & Abinash  | Are getting married!',
+        content: 'Tusaradri & Dinesh  | Are getting married!',
       },
       {
         hid: 'og:description',
@@ -46,12 +46,12 @@ export default {
       {
         hid: 'twitter:url',
         property: 'twitter:url',
-        content: 'https://pravanjana-abinash.netlify.app/',
+        content: 'https://tusaradri-dinesh.netlify.app/',
       },
       {
         hid: 'twitter:title',
         property: 'twitter:title',
-        content: 'Pravanjana & Abinash | Are getting married!',
+        content: 'Tusaradri & Dinesh | Are getting married!',
       },
       {
         hid: 'twitter:description',
@@ -75,6 +75,12 @@ export default {
         hid: 'gf-preconnect',
         rel: 'preconnect',
         href: 'https://res.cloudinary.com/',
+      },
+    ],
+    script: [
+      {
+        src:
+          'https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js',
       },
     ],
   },
