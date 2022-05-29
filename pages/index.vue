@@ -615,7 +615,7 @@
             url="https://tusaradri-dinesh.netlify.app/"
             title="Tusaradri & Dinesh | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,AbiAnjana"
+            hashtags="wedding,invitation"
           >
             <img
               src="@/assets/images/share-on-facebook-button.svg"
@@ -631,7 +631,7 @@
             url="https://tusaradri-dinesh.netlify.app/"
             title="Tusaradri & Dinesh | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,AbiAnjana"
+            hashtags="wedding,invitation"
           >
             <img
               src="@/assets/images/share-on-twitter-button.svg"
@@ -647,7 +647,7 @@
             url="https://tusaradri-dinesh.netlify.app/"
             title="Tusaradri & Dinesh | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,AbiAnjana"
+            hashtags="wedding,invitation"
           >
             <img
               src="@/assets/images/share-on-whatsapp-button.svg"
