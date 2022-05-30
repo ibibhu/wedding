@@ -329,8 +329,8 @@
             data-aos="fade-right"
             data-aos-duration="400"
           >
-            WEDNESDAY<br />
-            JUNE 8, 2022
+            THURSDAY<br />
+            JUNE 9, 2022
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
