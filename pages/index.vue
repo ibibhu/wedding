@@ -314,19 +314,45 @@
       <!-- HALDI desc text starts here -->
 
       <div class="flex justify-center">
-        <div class="text-center">
+        <div class="text-right pr-6 md:pr-16 border-r border-gray-400">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
-            data-aos="fade-left"
+            data-aos="fade-right"
             data-aos-duration="500"
           >
             <span class="highlight-container">
-              <span class="highlight">HALDI, MEHENDI & SANGEET</span>
+              <span class="highlight">HALDI & MEHENDI</span>
             </span>
           </div>
           <div
             class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
             data-aos="fade-right"
+            data-aos-duration="400"
+          >
+            WEDNESDAY<br />
+            JUNE 8, 2022
+          </div>
+          <div
+            class="font-sans text-sm md:text-base font-medium"
+            data-aos="fade-right"
+            data-aos-duration="400"
+          >
+            9:00 AM Onwards
+          </div>
+        </div>
+        <div class="text-left pl-6 md:pl-16">
+          <div
+            class="font-medium text-sm md:text-base tracking-wider"
+            data-aos="fade-left"
+            data-aos-duration="500"
+          >
+            <span class="highlight-container">
+              <span class="highlight">SANGEET</span>
+            </span>
+          </div>
+          <div
+            class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
+            data-aos="fade-left"
             data-aos-duration="400"
           >
             THURSDAY<br />
@@ -337,10 +363,12 @@
             data-aos="fade-left"
             data-aos-duration="400"
           >
-            11:00 AM Onwards
+            7:00 PM Onwards
           </div>
         </div>
       </div>
+
+      <!-- HALDI desc text ends here -->
 
       <div
         class="text-center font-medium font-display text-3xl md:text-5xl mb-12"
@@ -354,15 +382,13 @@
         />
       </div>
 
-      <!-- HALDI desc text ends here -->
-
-      <!-- Reception desc text ends here -->
+      <!-- Reception desc starts here -->
 
       <div class="flex justify-center">
         <div class="text-center">
           <div
             class="font-medium text-sm md:text-base tracking-widest"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-duration="500"
           >
             <span class="highlight-container">
@@ -371,21 +397,98 @@
           </div>
           <div
             class="font-sans text-red-700 font-semibold text-xl md:text-3xl mt-4 mb-2"
-            data-aos="fade-left"
+            data-aos="fade-right"
             data-aos-duration="400"
           >
-            SUNDAY<br />
-            JANUARY 23, 2022
+            FRIDAY<br />
+            JUNE 10, 2022
           </div>
           <div
             class="font-sans text-sm md:text-base font-medium"
-            data-aos="fade-right"
+            data-aos="fade-left"
             data-aos-duration="400"
           >
             12:00 PM Onwards
           </div>
         </div>
       </div>
+
+      <!-- Reception desc text ends here -->
+      <div class="mt-12 text-center">
+        <div
+          class="font-medium text-sm md:text-base tracking-wider mb-4"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          <span class="highlight-container">
+            <span class="highlight">HALDI & MEHENDI VENUE</span>
+          </span>
+        </div>
+        <div
+          class="font-medium"
+          translate="no"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          Savitri krupa, Ambira Nagar, Ainthapali, Jharsuguda Road, Sambalpur
+        </div>
+        <a
+          href="https://goo.gl/maps/3JUxv5N8R9XhuhB47"
+          class="my-6 inline-block"
+          data-aos="fade-up"
+          data-aos-duration="400"
+        >
+          <span class="inline-flex rounded-full shadow-sm">
+            <button
+              type="button"
+              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150"
+            >
+              Get direction
+
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                x="0px"
+                y="0px"
+                fill="#fff"
+                class="ml-3 -mr-1 h-5 w-5 text-white"
+                viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510"
+                xml:space="preserve"
+              >
+                <g>
+                  <g id="directions">
+                    <path
+                      d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z"
+                    />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
+        <div
+          class="max-w-3xl mx-auto"
+          data-aos="fade-up"
+          data-aos-duration="500"
+        >
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.2771923970404!2d83.98806372230673!3d21.496859913442922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6d6c45d8e09c5236!2zMjHCsDI5JzUyLjMiTiA4M8KwNTknMjEuMSJF!5e0!3m2!1sen!2sin!4v1653898325650!5m2!1sen!2sin"
+            class="rounded-md"
+            width="100%"
+            height="400"
+            loading="lazy"
+          ></iframe>
+        </div>
+      </div>
+
+      <img
+        src="@/assets/images/footer-separator.svg"
+        alt="Footer Separator"
+        class="w-64 mx-auto mt-12"
+      />
 
       <div class="mt-12 text-center">
         <div
@@ -394,7 +497,7 @@
           data-aos-duration="400"
         >
           <span class="highlight-container">
-            <span class="highlight">EVENT VENUE</span>
+            <span class="highlight">SANGEET, RECEPTION & MARRIAGE VENUE</span>
           </span>
         </div>
         <div
