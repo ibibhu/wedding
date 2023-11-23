@@ -691,7 +691,7 @@
             url="https://amay-soumya.netlify.app/"
             title="Amay & Soumya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,BikyCaughtTitly"
+            hashtags="wedding,invitation,BabunKiGudia"
           >
             <img
               src="@/assets/images/share-on-facebook-button.svg"
@@ -707,7 +707,7 @@
             url="https://amay-soumya.netlify.app/"
             title="Amay & Soumya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,BikyCaughtTitly"
+            hashtags="wedding,invitation,BabunKiGudia"
           >
             <img
               src="@/assets/images/share-on-twitter-button.svg"
@@ -723,7 +723,7 @@
             url="https://amay-soumya.netlify.app/"
             title="Amay & Soumya | Are getting married!"
             description="You are cordially invited to celebrate our marriage."
-            hashtags="wedding,invitation,BikyCaughtTitly"
+            hashtags="wedding,invitation,BabunKiGudia"
           >
             <img
               src="@/assets/images/share-on-whatsapp-button.svg"
