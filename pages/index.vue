@@ -59,6 +59,7 @@
             FRIDAY, DECEMBER 8, 2023
           </div>
           <svg
+            style="scale: 0.9"
             data-aos="fade-up"
             data-aos-delay="500"
             class="w-56 md:w-auto md:max-w-sm mx-auto h-auto"

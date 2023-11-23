@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb95f2e-a677-41d2-8a52-6ed32d9986de/deploy-status)](https://app.netlify.com/sites/amay-soumya/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/448230d1-b2f9-4d0b-9329-7fd172a560c5/deploy-status)](https://app.netlify.com/sites/amay-soumya/deploys)
 
 ## Build Setup
 
