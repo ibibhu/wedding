@@ -655,10 +655,10 @@
           background="transparent"
           speed="1"
           style="
-            width: 300px;
-            height: 300px;
-            margin-top: -100px;
-            margin-bottom: -100px;
+            width: 200px;
+            height: 200px;
+            margin-top: -75px;
+            margin-bottom: -60px;
           "
           loop
           autoplay
