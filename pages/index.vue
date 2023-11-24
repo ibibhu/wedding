@@ -648,7 +648,7 @@
           </div>
         </div>
       </div>
-      <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+      <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
       <div class="mt-16">
         <lottie-player
           src="https://lottie.host/7a54b27f-1fbc-4bd9-9117-11bc2e943eed/BlnFX27p5g.json"
@@ -671,7 +671,7 @@
           data-aos-duration="400"
         >
         </lottie-player>
-      </div>
+      </div> -->
       <div class="mt-5 text-center py-4 text-sm">
         <div>Made with love by</div>
         <a
