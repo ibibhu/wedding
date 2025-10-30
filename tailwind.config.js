@@ -1,12 +1,15 @@
-/*
- ** TailwindCSS Configuration File
- **
- ** Docs: https://tailwindcss.com/docs/configuration
- ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
- */
+/** @type {import('tailwindcss').Config} */
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
+  content: [
+    './components/**/*.{js,vue,ts}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './plugins/**/*.{js,ts}',
+    './nuxt.config.{js,ts}',
+    './app.vue'
+  ],
   theme: {
     extend: {
       fontFamily: {
@@ -14,10 +17,11 @@ module.exports = {
         serif: ['IBM Plex Serif'],
         display: ['Playfair Display'],
       },
-      backgroundImage: (theme) => ({
-        'hero-pattern': "url('~@/assets/images/lights.png')",
-        'footer-pattern': "url('~@/assets/images/footer.jpg')",
-      }),
+      backgroundImage: {
+        'hero-pattern': "url('@/assets/images/lights.png')",
+        'footer-pattern': "url('@/assets/images/footer.jpg')",
+      },
     },
   },
+  plugins: [],
 }

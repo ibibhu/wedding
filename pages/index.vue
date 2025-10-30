@@ -87,7 +87,7 @@
         <div
           v-if="showArrow"
           id="arrow"
-          v-scroll-to="'#celebrate'"
+          @click="scrollToCelebrate"
           class="absolute bottom-0 mb-8 hidden md:block cursor-pointer hover:bg-red-700 border-red-700 border rounded-full p-4 transition ease-in-out duration-150"
         >
           <svg
@@ -494,7 +494,7 @@
         data-aos="fade-up"
         data-aos-duration="500"
       >
-        <LazyYoutubeVideo src="https://www.youtube.com/embed/l866Eg72Ewk" />
+        <YoutubeVideo src="https://www.youtube.com/embed/l866Eg72Ewk" />
       </div> -->
       <div
         class="flex flex-wrap align-center justify-center mt-16 px-4"
@@ -512,7 +512,7 @@
               src="https://res.cloudinary.com/maxix/image/upload/v1623986342/blessed_vqdfel.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
-              {{ reactions.blessed | formatNumber }}
+              {{ formatNumber(reactions.blessed) }}
             </div>
           </div>
         </div>
@@ -527,7 +527,7 @@
               src="https://res.cloudinary.com/maxix/image/upload/v1623986338/clap_hcjxp0.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
-              {{ reactions.clap | formatNumber }}
+              {{ formatNumber(reactions.clap) }}
             </div>
           </div>
         </div>
@@ -542,7 +542,7 @@
               src="https://res.cloudinary.com/maxix/image/upload/v1623986340/love_qoxuvz.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
-              {{ reactions.love | formatNumber }}
+              {{ formatNumber(reactions.love) }}
             </div>
           </div>
         </div>
@@ -557,7 +557,7 @@
               src="https://res.cloudinary.com/maxix/image/upload/v1623986343/superlike_qttsgq.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
-              {{ reactions.superlike | formatNumber }}
+              {{ formatNumber(reactions.superlike) }}
             </div>
           </div>
         </div>
@@ -572,7 +572,7 @@
               src="https://res.cloudinary.com/maxix/image/upload/v1623986342/cool_qctmrh.gif"
             />
             <div class="pl-2 pr-2 text-2xl">
-              {{ reactions.cool | formatNumber }}
+              {{ formatNumber(reactions.cool) }}
             </div>
           </div>
         </div>
@@ -600,10 +600,10 @@
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150"
         >
-          <ShareNetwork
+          <SocialShare
             network="facebook"
             url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We’re getting married!"
+            title="Devi & Deepa | We're getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -611,15 +611,15 @@
               src="@/assets/images/share-on-facebook-button.svg"
               class="w-16"
             />
-          </ShareNetwork>
+          </SocialShare>
         </div>
         <div
           class="cursor-pointer mx-6 transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150"
         >
-          <ShareNetwork
+          <SocialShare
             network="twitter"
             url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We’re getting married!"
+            title="Devi & Deepa | We're getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -627,15 +627,15 @@
               src="@/assets/images/share-on-twitter-button.svg"
               class="w-16"
             />
-          </ShareNetwork>
+          </SocialShare>
         </div>
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150"
         >
-          <ShareNetwork
+          <SocialShare
             network="whatsapp"
             url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We’re getting married!"
+            title="Devi & Deepa | We're getting married!"
             description="You are cordially invited to celebrate our marriage."
             hashtags="wedding,invitation"
           >
@@ -643,7 +643,7 @@
               src="@/assets/images/share-on-whatsapp-button.svg"
               class="w-16"
             />
-          </ShareNetwork>
+          </SocialShare>
         </div>
       </div>
     </div>
@@ -652,61 +652,86 @@
   </div>
 </template>
 
-<script>
-import AOS from 'aos'
-import { fireDb } from '@/plugins/firebase.js'
-export default {
-  filters: {
-    formatNumber(num) {
-      return Math.abs(num) > 999
-        ? Math.sign(num) * (Math.abs(num) / 1000).toFixed(1) + 'k'
-        : Math.sign(num) * Math.abs(num)
-    },
-  },
-  data() {
-    return {
-      reactions: {
-        blessed: 0,
-        clap: 0,
-        love: 0,
-        superlike: 0,
-        cool: 0,
-      },
-      showArrow: false,
-    }
-  },
-  mounted() {
-    this.fetchReactions()
-    const vm = this
-    setTimeout(function () {
-      vm.showArrow = true
-    }, 1000)
-  },
-  methods: {
-    async updateReaction(name) {
-      const ref = fireDb.collection('reactions').doc('4zLI8Lv8Z25nCrstVbQQ')
-      const document = {
-        [name]: this.reactions[name] + 1,
-      }
-      try {
-        await ref.update(document)
-      } catch (e) {
-        // TODO: error handling
-      }
-    },
-    fetchReactions() {
-      const ref = fireDb.collection('reactions').doc('4zLI8Lv8Z25nCrstVbQQ')
-      ref.onSnapshot(
-        (docSnapshot) => {
-          this.reactions = docSnapshot.data()
-          AOS.refreshHard()
-        },
-        (err) => {
-          // eslint-disable-next-line no-console
-          console.log(err)
-        }
-      )
-    },
-  },
+<script setup lang="ts">
+import { doc, onSnapshot, updateDoc, collection } from 'firebase/firestore'
+
+// Use Nuxt 3 runtime config and plugins
+const { $firestore, $aos } = useNuxtApp()
+
+// Reactive data
+const reactions = ref({
+  blessed: 0,
+  clap: 0,
+  love: 0,
+  superlike: 0,
+  cool: 0,
+})
+
+const showArrow = ref(false)
+
+// Format number function (replaces filter)
+const formatNumber = (num: number): string => {
+  return Math.abs(num) > 999
+    ? Math.sign(num) * (Math.abs(num) / 1000).toFixed(1) + 'k'
+    : Math.sign(num) * Math.abs(num)
 }
+
+// Update reaction function
+const updateReaction = async (name: keyof typeof reactions.value) => {
+  if (!$firestore) return
+  
+  const ref = doc($firestore, 'reactions', '4zLI8Lv8Z25nCrstVbQQ')
+  const document = {
+    [name]: reactions.value[name] + 1,
+  }
+  
+  try {
+    await updateDoc(ref, document)
+  } catch (e) {
+    console.error('Error updating reaction:', e)
+  }
+}
+
+// Fetch reactions function
+const fetchReactions = () => {
+  if (!$firestore) return
+  
+  const ref = doc($firestore, 'reactions', '4zLI8Lv8Z25nCrstVbQQ')
+  onSnapshot(
+    ref,
+    (docSnapshot) => {
+      const data = docSnapshot.data()
+      if (data) {
+        reactions.value = { ...reactions.value, ...data }
+        // Refresh AOS animations
+        if ($aos) {
+          $aos.refresh()
+        }
+      }
+    },
+    (err) => {
+      console.error('Firebase subscription error:', err)
+    }
+  )
+}
+
+// Scroll to celebrate section function
+const scrollToCelebrate = () => {
+  const element = document.getElementById('celebrate')
+  if (element) {
+    element.scrollIntoView({
+      behavior: 'smooth',
+      block: 'start'
+    })
+  }
+}
+
+// Lifecycle - mounted equivalent
+onMounted(() => {
+  fetchReactions()
+  
+  setTimeout(() => {
+    showArrow.value = true
+  }, 1000)
+})
 </script>
