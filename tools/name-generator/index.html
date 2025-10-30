@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Wedding Name Generator - SVG to HTML Converter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Dancing+Script:wght@400;700&family=Pacifico&family=Sacramento&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💍</text></svg>">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header-content">
+        <h1>💍 Wedding Name Generator</h1>
+        <p>Convert SVG text to beautiful HTML wedding names with live preview</p>
+      </div>
+    </header>
+
+    <main class="main">
+      <!-- Input Section -->
+      <section class="input-section card">
+        <h2>✏️ Name Configuration</h2>
+        <div class="form-grid">
+          <div class="form-group">
+            <label for="firstName">First Name</label>
+            <input type="text" id="firstName" value="Devi" placeholder="Enter first name">
+          </div>
+          <div class="form-group">
+            <label for="secondName">Second Name</label>
+            <input type="text" id="secondName" value="Deepa" placeholder="Enter second name">
+          </div>
+          <div class="form-group">
+            <label for="fontFamily">Font Family</label>
+            <select id="fontFamily">
+              <option value="Great Vibes">Great Vibes</option>
+              <option value="Dancing Script">Dancing Script</option>
+              <option value="Pacifico">Pacifico</option>
+              <option value="Sacramento">Sacramento</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="colorScheme">Color Scheme</label>
+            <select id="colorScheme">
+              <option value="classic">Classic (Black & Red)</option>
+              <option value="elegant">Elegant (Navy & Gold)</option>
+              <option value="romantic">Romantic (Rose & Pink)</option>
+              <option value="modern">Modern (Gray & Blue)</option>
+              <option value="custom">Custom</option>
+            </select>
+          </div>
+          <div class="form-group custom-colors" style="display: none;">
+            <label for="nameColor">Name Color</label>
+            <input type="color" id="nameColor" value="#000000">
+          </div>
+          <div class="form-group custom-colors" style="display: none;">
+            <label for="ampersandColor">& Color</label>
+            <input type="color" id="ampersandColor" value="#C1272D">
+          </div>
+        </div>
+      </section>
+
+      <!-- Preview Section -->
+      <section class="preview-section">
+        <div class="columns">
+          <!-- SVG Preview -->
+          <div class="card">
+            <h3>🎨 SVG Version</h3>
+            <div class="svg-wrap">
+              <div class="svg-container" id="svgContainer">
+                <div class="logo-container svg-version">
+                  <div class="name-text first-name">Devi</div>
+                  <div class="name-text ampersand">&</div>
+                  <div class="name-text second-name">Deepa</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- HTML Preview -->
+          <div class="card">
+            <h3>📝 HTML Version</h3>
+            <div class="html-wrap">
+              <div class="html-container" id="htmlContainer">
+                <div class="logo-container html-version">
+                  <div class="name-text first-name">Devi</div>
+                  <div class="name-text ampersand">&</div>
+                  <div class="name-text second-name">Deepa</div>
+                </div>
+                <div class="rulers">
+                  <svg viewBox="0 0 430 350" preserveAspectRatio="none">
+                    <defs>
+                      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+                        <path d="M20 0v20H0" stroke="currentColor" stroke-opacity="0.05" stroke-width="1"/>
+                      </pattern>
+                    </defs>
+                    <rect width="430" height="350" fill="url(#grid)"/>
+                    <line x1="0" y1="175" x2="430" y2="175" stroke="var(--accent-color)" stroke-opacity="0.1"/>
+                    <line x1="215" y1="0" x2="215" y2="350" stroke="var(--accent-color)" stroke-opacity="0.1"/>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Controls Section -->
+      <section class="controls-section card">
+        <h3>🎛️ Position Controls</h3>
+        <div class="controls-grid">
+          <!-- First Name Controls -->
+          <div class="control-group">
+            <h4>First Name Position</h4>
+            <div class="controls">
+              <div class="control-row">
+                <label>Left</label>
+                <input id="firstLeft" type="range" min="-100" max="300" value="40">
+                <span class="value" id="firstLeftVal">40px</span>
+              </div>
+              <div class="control-row">
+                <label>Top</label>
+                <input id="firstTop" type="range" min="-50" max="300" value="20">
+                <span class="value" id="firstTopVal">20px</span>
+              </div>
+              <div class="control-row">
+                <label>Rotation</label>
+                <input id="firstRot" type="range" min="-40" max="40" value="-9">
+                <span class="value" id="firstRotVal">-9°</span>
+              </div>
+              <div class="control-row">
+                <label>Size</label>
+                <input id="firstSize" type="range" min="80" max="200" value="150">
+                <span class="value" id="firstSizeVal">150px</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Ampersand Controls -->
+          <div class="control-group">
+            <h4>& Position</h4>
+            <div class="controls">
+              <div class="control-row">
+                <label>Left</label>
+                <input id="ampLeft" type="range" min="-100" max="380" value="290">
+                <span class="value" id="ampLeftVal">290px</span>
+              </div>
+              <div class="control-row">
+                <label>Top</label>
+                <input id="ampTop" type="range" min="-50" max="300" value="120">
+                <span class="value" id="ampTopVal">120px</span>
+              </div>
+              <div class="control-row">
+                <label>Rotation</label>
+                <input id="ampRot" type="range" min="-40" max="40" value="-9">
+                <span class="value" id="ampRotVal">-9°</span>
+              </div>
+              <div class="control-row">
+                <label>Size</label>
+                <input id="ampSize" type="range" min="50" max="120" value="90">
+                <span class="value" id="ampSizeVal">90px</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Second Name Controls -->
+          <div class="control-group">
+            <h4>Second Name Position</h4>
+            <div class="controls">
+              <div class="control-row">
+                <label>Left</label>
+                <input id="secondLeft" type="range" min="-100" max="380" value="170">
+                <span class="value" id="secondLeftVal">170px</span>
+              </div>
+              <div class="control-row">
+                <label>Top</label>
+                <input id="secondTop" type="range" min="-50" max="300" value="170">
+                <span class="value" id="secondTopVal">170px</span>
+              </div>
+              <div class="control-row">
+                <label>Rotation</label>
+                <input id="secondRot" type="range" min="-40" max="40" value="-9">
+                <span class="value" id="secondRotVal">-9°</span>
+              </div>
+              <div class="control-row">
+                <label>Size</label>
+                <input id="secondSize" type="range" min="80" max="200" value="150">
+                <span class="value" id="secondSizeVal">150px</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Actions Section -->
+      <section class="actions-section card">
+        <h3>📋 Export & Actions</h3>
+        <div class="actions-grid">
+          <button id="copyHtmlBtn" class="btn btn-primary">
+            📝 Copy HTML Code
+          </button>
+          <button id="copyCssBtn" class="btn btn-secondary">
+            🎨 Copy CSS Styles
+          </button>
+          <button id="downloadBtn" class="btn btn-accent">
+            💾 Download HTML
+          </button>
+          <button id="resetBtn" class="btn btn-outline">
+            🔄 Reset Positions
+          </button>
+          <button id="presetBtn" class="btn btn-outline">
+            ⭐ Apply Preset
+          </button>
+          <button id="randomBtn" class="btn btn-fun">
+            🎲 Randomize
+          </button>
+        </div>
+      </section>
+
+      <!-- Code Output Section -->
+      <section class="output-section card">
+        <h3>💻 Generated Code</h3>
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="html">HTML</button>
+          <button class="tab-btn" data-tab="css">CSS</button>
+          <button class="tab-btn" data-tab="vue">Vue Component</button>
+          <button class="tab-btn" data-tab="react">React Component</button>
+        </div>
+        <div class="code-container">
+          <pre><code id="codeOutput" class="language-html"></code></pre>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Made with ❤️ for beautiful wedding invitations</p>
+      <p><small>© 2025 Wedding Name Generator - Open Source Tool</small></p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
