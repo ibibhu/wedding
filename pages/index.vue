@@ -155,7 +155,7 @@
               <span class="highlight">ABHIJEET’S</span>
             </span>
           </div>
-          <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
+          <div class="font-sans font-medium text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
             data-aos-duration="400">
             CASA BROADWAY<br />
             KEYATALA LANE
@@ -191,7 +191,7 @@
               <span class="highlight">SAMPUJITA’S</span>
             </span>
           </div>
-          <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-left"
+          <div class="font-sans font-medium text-l md:text-3xl mt-4 mb-2" data-aos="fade-left"
             data-aos-duration="400">
             SINGHI PALACE<br />
             GARIAHAT
