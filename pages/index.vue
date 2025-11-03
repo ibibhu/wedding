@@ -523,7 +523,7 @@
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
           <SocialShare network="facebook" url="https://sampujita-abhijeet.netlify.app/"
-            title="Sampujita & Abhijeet | We're getting married!"
+            title="Sampujita and Abhijeet | We're getting married!"
             description="You are cordially invited to celebrate our marriage." hashtags="wedding,invitation">
             <img src="@/assets/images/share-on-facebook-button.svg" class="w-16" />
           </SocialShare>
@@ -531,7 +531,7 @@
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
           <SocialShare network="whatsapp" url="https://sampujita-abhijeet.netlify.app/"
-            title="Sampujita & Abhijeet | We're getting married!"
+            title="Sampujita and Abhijeet | We're getting married!"
             description="You are cordially invited to celebrate our marriage." hashtags="wedding,invitation">
             <img src="@/assets/images/share-on-whatsapp-button.svg" class="w-16" />
           </SocialShare>
