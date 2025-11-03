@@ -33,7 +33,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:image',
-          content: '/og-image1.jpg',
+          content: '/og-image.jpg',
         },
         // Twitter
         {
