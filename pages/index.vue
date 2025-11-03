@@ -519,7 +519,7 @@
         <a class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
           href="https://www.instagram.com/ibibhu/" target="_blank">Miku</a>
       </div>
-      <div class="flex justify-center mt-8">
+      <div class="flex justify-center gap-2 mt-8">
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
           <SocialShare network="facebook" url="https://sampujita-abhijeet.netlify.app/"
