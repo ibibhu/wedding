@@ -135,10 +135,10 @@
       </div>
       <div class="mt-12 text-center" style="margin-top: -40px;" >
         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/haldi.png" class="w-24 mx-auto mt-12"
-          alt="Separator" />
+          alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
-            <span class="highlight text-xl" >Haldi</span>
+            <span class="highlight text-xl" >HALDI</span>
           </span>
         </div>
         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
@@ -163,6 +163,27 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-right" data-aos-duration="400">
             9:00 AM Onwards
           </div>
+          <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-right"
+          data-aos-duration="400">
+          <span class="inline-flex rounded-full shadow-sm">
+            <button type="button"
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              Get direction
+
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510" xml:space="preserve">
+                <g>
+                  <g id="directions">
+                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
         </div>
         <div class="text-left pl-6 md:pl-16">
           <div class="font-medium text-sm md:text-base tracking-wider" data-aos="fade-left" data-aos-duration="500">
@@ -178,15 +199,15 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-left" data-aos-duration="400">
             9:00 AM Onwards
           </div>
-          <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="my-6 inline-block" data-aos="fade-up"
+          <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-left"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
               Get direction
 
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-3 -mr-1 h-5 w-5 text-white" viewBox="0 0 510 510"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
                 style="enable-background: new 0 0 510 510" xml:space="preserve">
                 <g>
                   <g id="directions">
@@ -210,24 +231,27 @@
           alt="Separator"
         />
 
-      <div class="mt-12 text-center">
+      <div class="mt-12 text-center" style="margin-top: -30px;">
+         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/lunch.png" class="w-24 mx-auto mt-12 mb-2"
+          alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
-            <span class="highlight">MARRIAGE VENUE</span>
+            <span class="highlight text-xl">LUNCH</span>
           </span>
         </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          Hotel Micro Continental, Jharsuguda, Odisha 768205
+          SINGHI PALACE, GARIAHAT, KOLKATA <br/>
+          1:00 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="my-6 inline-block" data-aos="fade-up"
+        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
               Get direction
 
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-3 -mr-1 h-5 w-5 text-white" viewBox="0 0 510 510"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
                 style="enable-background: new 0 0 510 510" xml:space="preserve">
                 <g>
                   <g id="directions">
@@ -240,29 +264,37 @@
             </button>
           </span>
         </a>
-        <div class="max-w-3xl mx-auto" data-aos="fade-up" data-aos-duration="500">
-          <iframe class="rounded-md" width="100%" height="400"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3702.3940189365803!2d84.02440481473724!3d21.880897963517516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a20e42fe9189329%3A0x9dff13486795bbbe!2sHotel%20Micro%20Continental!5e0!3m2!1sen!2sus!4v1623868191536!5m2!1sen!2sus"></iframe>
-        </div>
       </div>
-      <div class="mt-12 text-center">
+
+      <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
+        />
+
+        <div class="mt-12 text-center" style="margin-top: -30px;">
+         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/baaraat.png" class="w-24 mx-auto mt-12 mb-2"
+          alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
-            <span class="highlight">RECEPTION VENUE</span>
+            <span class="highlight text-xl">BAARAAT</span>
           </span>
         </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          Hotel Jaysingh, Bargarh, Odisha 768028
+          CASA BROADWAY, KEYATALA LANE, KOLKATA <br/>
+          5:30 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/qBE7CXjgyLBtq9aJA" class="my-6 inline-block" data-aos="fade-up"
+        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
-              class="inline-flex items-center px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
               Get direction
 
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-3 -mr-1 h-5 w-5 text-white" viewBox="0 0 510 510"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
                 style="enable-background: new 0 0 510 510" xml:space="preserve">
                 <g>
                   <g id="directions">
@@ -275,10 +307,149 @@
             </button>
           </span>
         </a>
-        <div class="max-w-3xl mx-auto" data-aos="fade-up" data-aos-duration="500">
-          <iframe class="rounded-md" width="100%" height="400"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14864.763692170747!2d83.60038742745786!3d21.34296317326246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a214aa344498829%3A0x9d0f59ed960ebd8e!2sJaysingh%20Kalyan%20Mandap!5e0!3m2!1sen!2sin!4v1623867833035!5m2!1sen!2sin"></iframe>
+      </div>
+
+      <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
+        />
+    
+      <div class="mt-12 text-center" style="margin-top: -30px;">
+         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/wedding.png" class="w-24 mx-auto mt-12 mb-2"
+          alt="Haldi" />
+        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
+          <span class="highlight-container">
+            <span class="highlight text-xl">WEDDING</span>
+          </span>
         </div>
+        <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
+          SINGHI PALACE, GARIAHAT, KOLKATA <br/>
+          7:00 PM Onwards
+        </div>
+        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+          data-aos-duration="400">
+          <span class="inline-flex rounded-full shadow-sm">
+            <button type="button"
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              Get direction
+
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510" xml:space="preserve">
+                <g>
+                  <g id="directions">
+                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
+      </div>
+
+      <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
+        />
+
+        <div class="mt-12 text-center" style="margin-top: -30px;">
+         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/sangeet.png" class="w-24 mx-auto mt-12 mb-2"
+          alt="SANGEET" />
+        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
+          <span class="highlight-container">
+            <span class="highlight text-xl">SANGEET</span>
+          </span>
+        </div>
+
+         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
+          data-aos-duration="400">
+          FRIDAY<br />
+          NOVEMBER 28, 2025
+        </div>
+
+        <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
+          SATYABHAMA INN, BERHAMPUR, ODISHA<br/>
+          7:30 PM Onwards
+        </div>
+        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+          data-aos-duration="400">
+          <span class="inline-flex rounded-full shadow-sm">
+            <button type="button"
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              Get direction
+
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510" xml:space="preserve">
+                <g>
+                  <g id="directions">
+                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
+      </div>
+
+      <img
+          data-aos="fade-up"
+          data-aos-duration="400"
+          src="@/assets/images/separator.svg"
+          class="w-64 mx-auto mt-12"
+          alt="Separator"
+        />
+
+        <div class="mt-12 text-center" style="margin-top: -30px;">
+         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/reception.png" class="w-24 mx-auto mt-12 mb-2"
+          alt="RECEPTION" />
+        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
+          <span class="highlight-container">
+            <span class="highlight text-xl">RECEPTION</span>
+          </span>
+        </div>
+
+         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
+          data-aos-duration="400">
+          SATURDAY<br />
+          NOVEMBER 29, 2025
+        </div>
+
+        <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
+          NANDAN HOTEL & CONVENTION, BERHAMPUR, ODISHA<br/>
+          7:30 PM Onwards
+        </div>
+        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+          data-aos-duration="400">
+          <span class="inline-flex rounded-full shadow-sm">
+            <button type="button"
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              Get direction
+
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                style="enable-background: new 0 0 510 510" xml:space="preserve">
+                <g>
+                  <g id="directions">
+                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
+			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                  </g>
+                </g>
+              </svg>
+            </button>
+          </span>
+        </a>
       </div>
       <img src="@/assets/images/footer-separator.svg" alt="Footer Separator" class="w-64 mx-auto mt-12" />
       <div class="flex flex-wrap align-center justify-center mt-16 px-4" data-aos="fade-up" data-aos-duration="400">
