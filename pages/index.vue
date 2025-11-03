@@ -38,10 +38,10 @@
           </div>
         </div>
         <div class="w-full md:w-1/2 mt-5 md:mt-0">
-          <img data-aos="fade-up" data-aos-delay="600" src="@/assets/images/photo.jpg"
+          <img data-aos="fade-up" data-aos-delay="600" src="@/assets/images/photo.webp"
             class="w-full mx-auto hidden md:block" alt="Sampujita & Abhijeet" />
 
-          <img data-aos="fade-up" data-aos-delay="100" src="@/assets/images/photo.jpg"
+          <img data-aos="fade-up" data-aos-delay="100" src="@/assets/images/photo.webp"
             class="w-full mx-auto block md:hidden" alt="Sampujita & Abhijeet" />
         </div>
       </div>
