@@ -39,10 +39,10 @@
         </div>
         <div class="w-full md:w-1/2 mt-5 md:mt-0">
           <img data-aos="fade-up" data-aos-delay="600" src="@/assets/images/photo.jpg"
-            class="w-full mx-auto hidden md:block" alt="Devi & Deepa" />
+            class="w-full mx-auto hidden md:block" alt="Sampujita & Abhijeet" />
 
           <img data-aos="fade-up" data-aos-delay="100" src="@/assets/images/photo.jpg"
-            class="w-full mx-auto block md:hidden" alt="Devi & Deepa" />
+            class="w-full mx-auto block md:hidden" alt="Sampujita & Abhijeet" />
         </div>
       </div>
       <transition enter-class="transform translate-y-10 opacity-0"
@@ -511,7 +511,7 @@
       </div>
 
       <div class="mt-16">
-        <img alt="Devi & Deepa" data-aos="fade-up" data-aos-duration="400" src="@/assets/images/footer-logo.png"
+        <img alt="Sampujita & Abhijeet" data-aos="fade-up" data-aos-duration="400" src="@/assets/images/footer-logo.png"
           class="mx-auto w-24 md:w-32" />
       </div>
       <div class="mt-5 text-center py-4 text-sm">
@@ -522,24 +522,24 @@
       <div class="flex justify-center mt-8">
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
-          <SocialShare network="facebook" url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We're getting married!"
+          <SocialShare network="facebook" url="https://sampujita-abhijeet.netlify.app/"
+            title="Sampujita & Abhijeet | We're getting married!"
             description="You are cordially invited to celebrate our marriage." hashtags="wedding,invitation">
             <img src="@/assets/images/share-on-facebook-button.svg" class="w-16" />
           </SocialShare>
         </div>
         <div
           class="cursor-pointer mx-6 transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
-          <SocialShare network="twitter" url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We're getting married!"
+          <SocialShare network="twitter" url="https://sampujita-abhijeet.netlify.app/"
+            title="Sampujita & Abhijeet | We're getting married!"
             description="You are cordially invited to celebrate our marriage." hashtags="wedding,invitation">
             <img src="@/assets/images/share-on-twitter-button.svg" class="w-16" />
           </SocialShare>
         </div>
         <div
           class="cursor-pointer transform translate-y-0 hover:-translate-y-1 transition-all ease-in-out duration-150">
-          <SocialShare network="whatsapp" url="https://chiku-deepa.netlify.app/"
-            title="Devi & Deepa | We're getting married!"
+          <SocialShare network="whatsapp" url="https://sampujita-abhijeet.netlify.app/"
+            title="Sampujita & Abhijeet | We're getting married!"
             description="You are cordially invited to celebrate our marriage." hashtags="wedding,invitation">
             <img src="@/assets/images/share-on-whatsapp-button.svg" class="w-16" />
           </SocialShare>
