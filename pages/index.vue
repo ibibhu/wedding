@@ -62,7 +62,7 @@
     </div>
 
     <div id="celebrate" class="container mx-auto p-4">
-      <div class="text-center font-medium font-display text-3xl md:text-5xl mb-12">
+      <div class="text-center font-medium font-display text-2xl md:text-5xl mb-12">
         <div style="width: 200px" class="mx-auto" data-aos="fade-up" data-aos-duration="300">
           <svg id="Layer_1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
             x="0px" y="0px" viewBox="0 0 400 400" style="enable-background: new 0 0 400 400; margin-left: 50px"
@@ -128,7 +128,7 @@
           </svg>
         </div>
         <div data-aos="fade-up" data-aos-duration="400">
-          We invite you to <br />celebrate our wedding!
+          Thank you for choosing to <br />come to celebrate our wedding!
         </div>
         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
           alt="Separator" />
