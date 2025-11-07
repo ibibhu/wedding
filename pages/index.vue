@@ -155,7 +155,7 @@
               <span class="highlight">ABHIJEET’S</span>
             </span>
           </div>
-          <div class="font-sans font-medium text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
+          <div class="font-sans font-medium text-m md:text-2xl mt-4 mb-2" data-aos="fade-right"
             data-aos-duration="400">
             CASA BROADWAY<br />
             KEYATALA LANE
@@ -163,7 +163,7 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-right" data-aos-duration="400">
             9:00 AM Onwards
           </div>
-          <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-right"
+          <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-right"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
@@ -191,7 +191,7 @@
               <span class="highlight">SAMPUJITA’S</span>
             </span>
           </div>
-          <div class="font-sans font-medium text-l md:text-3xl mt-4 mb-2" data-aos="fade-left"
+          <div class="font-sans text-m font-medium  md:text-2xl mt-4 mb-2" data-aos="fade-left"
             data-aos-duration="400">
             SINGHI PALACE<br />
             GARIAHAT
@@ -199,7 +199,7 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-left" data-aos-duration="400">
             10:00 AM Onwards
           </div>
-          <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-left"
+          <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-left"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
@@ -243,7 +243,7 @@
           SINGHI PALACE, GARIAHAT, KOLKATA <br/>
           1:00 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+        <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
@@ -286,7 +286,7 @@
           CASA BROADWAY, KEYATALA LANE, KOLKATA <br/>
           5:30 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+        <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
@@ -329,7 +329,7 @@
           SINGHI PALACE, GARIAHAT, KOLKATA <br/>
           7:00 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+        <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
@@ -378,7 +378,7 @@
           NANDAN HOTEL & CONVENTION, BERHAMPUR, ODISHA<br/>
           7:30 PM Onwards
         </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
+        <a href="https://maps.app.goo.gl/tyCdYPzvAeebF4m17" class="mt-3 mb-1 inline-block" data-aos="fade-up"
           data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
