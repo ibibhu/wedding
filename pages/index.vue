@@ -197,7 +197,7 @@
             GARIAHAT
           </div>
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-left" data-aos-duration="400">
-            9:00 AM Onwards
+            10:00 AM Onwards
           </div>
           <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-left"
           data-aos-duration="400">
@@ -351,57 +351,6 @@
           </span>
         </a>
       </div>
-
-      <img
-          data-aos="fade-up"
-          data-aos-duration="400"
-          src="@/assets/images/separator.svg"
-          class="w-64 mx-auto mt-12"
-          alt="Separator"
-        />
-
-        <div class="mt-12 text-center" style="margin-top: -30px;">
-         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/sangeet.png" class="w-24 mx-auto mt-12 mb-2"
-          alt="SANGEET" />
-        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
-          <span class="highlight-container">
-            <span class="highlight text-xl">SANGEET</span>
-          </span>
-        </div>
-
-         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
-          data-aos-duration="400">
-          FRIDAY<br />
-          NOVEMBER 28, 2025
-        </div>
-
-        <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          SATYABHAMA INN, BERHAMPUR, ODISHA<br/>
-          7:30 PM Onwards
-        </div>
-        <a href="https://goo.gl/maps/EPvfcxB7vAmCJXBt6" class="mt-3 mb-1 inline-block" data-aos="fade-up"
-          data-aos-duration="400">
-          <span class="inline-flex rounded-full shadow-sm">
-            <button type="button"
-              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
-              Get direction
-
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
-                style="enable-background: new 0 0 510 510" xml:space="preserve">
-                <g>
-                  <g id="directions">
-                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
-			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
-			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
-                  </g>
-                </g>
-              </svg>
-            </button>
-          </span>
-        </a>
-      </div>
-
       <img
           data-aos="fade-up"
           data-aos-duration="400"
