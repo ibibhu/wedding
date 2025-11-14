@@ -141,6 +141,11 @@
             <span class="highlight text-xl">HALDI</span>
           </span>
         </div>
+        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
+          <span>
+            <span class="text-l">Dress code <br /> Yellow 💛 or Sky Blue 🩵 </span>
+          </span>
+        </div>
         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
           data-aos-duration="400">
           TUESDAY<br />
