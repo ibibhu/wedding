@@ -133,12 +133,12 @@
         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
           alt="Separator" />
       </div>
-      <div class="mt-12 text-center" style="margin-top: -40px;" >
+      <div class="mt-12 text-center" style="margin-top: -40px;">
         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/haldi.png" class="w-24 mx-auto mt-12"
           alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
-            <span class="highlight text-xl" >HALDI</span>
+            <span class="highlight text-xl">HALDI</span>
           </span>
         </div>
         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
@@ -155,8 +155,7 @@
               <span class="highlight">ABHIJEET’S</span>
             </span>
           </div>
-          <div class="font-sans font-medium text-m md:text-2xl mt-4 mb-2" data-aos="fade-right"
-            data-aos-duration="400">
+          <div class="font-sans font-medium text-m md:text-2xl mt-4 mb-2" data-aos="fade-right" data-aos-duration="400">
             CASA BROADWAY<br />
             KEYATALA LANE
           </div>
@@ -164,26 +163,26 @@
             9:00 AM Onwards
           </div>
           <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-right"
-          data-aos-duration="400">
-          <span class="inline-flex rounded-full shadow-sm">
-            <button type="button"
-              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
-              Get direction
+            data-aos-duration="400">
+            <span class="inline-flex rounded-full shadow-sm">
+              <button type="button"
+                class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+                Get direction
 
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
-                style="enable-background: new 0 0 510 510" xml:space="preserve">
-                <g>
-                  <g id="directions">
-                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                  fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                  style="enable-background: new 0 0 510 510" xml:space="preserve">
+                  <g>
+                    <g id="directions">
+                      <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
 			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
 			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                    </g>
                   </g>
-                </g>
-              </svg>
-            </button>
-          </span>
-        </a>
+                </svg>
+              </button>
+            </span>
+          </a>
         </div>
         <div class="text-left pl-6 md:pl-16">
           <div class="font-medium text-sm md:text-base tracking-wider" data-aos="fade-left" data-aos-duration="500">
@@ -191,8 +190,7 @@
               <span class="highlight">SAMPUJITA’S</span>
             </span>
           </div>
-          <div class="font-sans text-m font-medium  md:text-2xl mt-4 mb-2" data-aos="fade-left"
-            data-aos-duration="400">
+          <div class="font-sans text-m font-medium  md:text-2xl mt-4 mb-2" data-aos="fade-left" data-aos-duration="400">
             SINGHI PALACE<br />
             GARIAHAT
           </div>
@@ -200,39 +198,34 @@
             10:00 AM Onwards
           </div>
           <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-left"
-          data-aos-duration="400">
-          <span class="inline-flex rounded-full shadow-sm">
-            <button type="button"
-              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
-              Get direction
+            data-aos-duration="400">
+            <span class="inline-flex rounded-full shadow-sm">
+              <button type="button"
+                class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+                Get direction
 
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
-                style="enable-background: new 0 0 510 510" xml:space="preserve">
-                <g>
-                  <g id="directions">
-                    <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                  fill="#fff" class="ml-2 -mr-1 h-4 w-4 text-white" viewBox="0 0 510 510"
+                  style="enable-background: new 0 0 510 510" xml:space="preserve">
+                  <g>
+                    <g id="directions">
+                      <path d="M502.35,237.149l-229.5-229.5l0,0c-10.199-10.2-25.5-10.2-35.7,0l-229.5,229.5c-10.2,10.2-10.2,25.501,0,35.7l229.5,229.5
 			l0,0c10.2,10.2,25.501,10.2,35.7,0l229.5-229.5C512.55,262.65,512.55,247.35,502.35,237.149z M306,318.75V255H204v76.5h-51v-102
 			c0-15.3,10.2-25.5,25.5-25.5H306v-63.75l89.25,89.25L306,318.75z" />
+                    </g>
                   </g>
-                </g>
-              </svg>
-            </button>
-          </span>
-        </a>
+                </svg>
+              </button>
+            </span>
+          </a>
         </div>
       </div>
 
-       <img
-          data-aos="fade-up"
-          data-aos-duration="400"
-          src="@/assets/images/separator.svg"
-          class="w-64 mx-auto mt-12"
-          alt="Separator"
-        />
+      <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
+        alt="Separator" />
 
       <div class="mt-12 text-center" style="margin-top: -30px;">
-         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/lunch.png" class="w-24 mx-auto mt-12 mb-2"
+        <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/lunch.png" class="w-24 mx-auto mt-12 mb-2"
           alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
@@ -240,7 +233,7 @@
           </span>
         </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          SINGHI PALACE, GARIAHAT, KOLKATA <br/>
+          SINGHI PALACE, GARIAHAT, KOLKATA <br />
           1:00 PM Onwards
         </div>
         <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
@@ -266,24 +259,19 @@
         </a>
       </div>
 
-      <img
-          data-aos="fade-up"
-          data-aos-duration="400"
-          src="@/assets/images/separator.svg"
-          class="w-64 mx-auto mt-12"
-          alt="Separator"
-        />
+      <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
+        alt="Separator" />
 
-        <div class="mt-12 text-center" style="margin-top: -30px;">
-         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/baaraat.png" class="w-24 mx-auto mt-12 mb-2"
-          alt="Haldi" />
+      <div class="mt-12 text-center" style="margin-top: -30px;">
+        <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/baaraat.png"
+          class="w-24 mx-auto mt-12 mb-2" alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
             <span class="highlight text-xl">BAARAAT</span>
           </span>
         </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          CASA BROADWAY, KEYATALA LANE, KOLKATA <br/>
+          CASA BROADWAY, KEYATALA LANE, KOLKATA <br />
           5:30 PM Onwards
         </div>
         <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-up"
@@ -309,24 +297,19 @@
         </a>
       </div>
 
-      <img
-          data-aos="fade-up"
-          data-aos-duration="400"
-          src="@/assets/images/separator.svg"
-          class="w-64 mx-auto mt-12"
-          alt="Separator"
-        />
-    
+      <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
+        alt="Separator" />
+
       <div class="mt-12 text-center" style="margin-top: -30px;">
-         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/wedding.png" class="w-24 mx-auto mt-12 mb-2"
-          alt="Haldi" />
+        <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/wedding.png"
+          class="w-24 mx-auto mt-12 mb-2" alt="Haldi" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
             <span class="highlight text-xl">WEDDING</span>
           </span>
         </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          SINGHI PALACE, GARIAHAT, KOLKATA <br/>
+          SINGHI PALACE, GARIAHAT, KOLKATA <br />
           7:00 PM Onwards
         </div>
         <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
@@ -351,31 +334,26 @@
           </span>
         </a>
       </div>
-      <img
-          data-aos="fade-up"
-          data-aos-duration="400"
-          src="@/assets/images/separator.svg"
-          class="w-64 mx-auto mt-12"
-          alt="Separator"
-        />
+      <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/separator.svg" class="w-64 mx-auto mt-12"
+        alt="Separator" />
 
-        <div class="mt-12 text-center" style="margin-top: -30px;">
-         <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/reception.png" class="w-24 mx-auto mt-12 mb-2"
-          alt="RECEPTION" />
+      <div class="mt-12 text-center" style="margin-top: -30px;">
+        <img data-aos="fade-up" data-aos-duration="400" src="@/assets/images/reception.png"
+          class="w-24 mx-auto mt-12 mb-2" alt="RECEPTION" />
         <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
           <span class="highlight-container">
             <span class="highlight text-xl">RECEPTION</span>
           </span>
         </div>
 
-         <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
+        <div class="font-sans text-red-700 font-semibold text-l md:text-3xl mt-4 mb-2" data-aos="fade-right"
           data-aos-duration="400">
           SATURDAY<br />
           NOVEMBER 29, 2025
         </div>
 
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
-          NANDAN HOTEL & CONVENTION, BERHAMPUR, ODISHA<br/>
+          NANDAN HOTEL & CONVENTION, BERHAMPUR, ODISHA<br />
           7:30 PM Onwards
         </div>
         <a href="https://maps.app.goo.gl/tyCdYPzvAeebF4m17" class="mt-3 mb-1 inline-block" data-aos="fade-up"
@@ -458,7 +436,6 @@
           </div>
         </div>
       </div>
-
       <div class="mt-16">
         <img alt="Sampujita & Abhijeet" data-aos="fade-up" data-aos-duration="400" src="@/assets/images/footer-logo.png"
           class="mx-auto w-24 md:w-32" />
