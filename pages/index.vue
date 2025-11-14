@@ -162,8 +162,8 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-right" data-aos-duration="400">
             9:00 AM Onwards
           </div>
-          <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-right"
-            data-aos-duration="400">
+          <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7"
+            class="mt-3 mb-1 inline-block" data-aos="fade-right" data-aos-duration="400">
             <span class="inline-flex rounded-full shadow-sm">
               <button type="button"
                 class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -197,8 +197,8 @@
           <div class="font-sans text-sm md:text-base font-medium" data-aos="fade-left" data-aos-duration="400">
             10:00 AM Onwards
           </div>
-          <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-left"
-            data-aos-duration="400">
+          <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9"
+            class="mt-3 mb-1 inline-block" data-aos="fade-left" data-aos-duration="400">
             <span class="inline-flex rounded-full shadow-sm">
               <button type="button"
                 class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -236,8 +236,8 @@
           SINGHI PALACE, GARIAHAT, KOLKATA <br />
           1:00 PM Onwards
         </div>
-        <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
-          data-aos-duration="400">
+        <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9"
+          class="mt-3 mb-1 inline-block" data-aos="fade-up" data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
               class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -274,8 +274,8 @@
           CASA BROADWAY, KEYATALA LANE, KOLKATA <br />
           5:30 PM Onwards
         </div>
-        <a href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7" class="mt-3 mb-1 inline-block" data-aos="fade-up"
-          data-aos-duration="400">
+        <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/8gnfPN3bsfPS4Noz7"
+          class="mt-3 mb-1 inline-block" data-aos="fade-up" data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
               class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -312,8 +312,8 @@
           SINGHI PALACE, GARIAHAT, KOLKATA <br />
           7:00 PM Onwards
         </div>
-        <a href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9" class="mt-3 mb-1 inline-block" data-aos="fade-up"
-          data-aos-duration="400">
+        <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/UofXHXGJvK2YT5Sf9"
+          class="mt-3 mb-1 inline-block" data-aos="fade-up" data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
               class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -356,8 +356,8 @@
           NANDAN HOTEL & CONVENTION, BERHAMPUR, ODISHA<br />
           7:30 PM Onwards
         </div>
-        <a href="https://maps.app.goo.gl/tyCdYPzvAeebF4m17" class="mt-3 mb-1 inline-block" data-aos="fade-up"
-          data-aos-duration="400">
+        <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/tyCdYPzvAeebF4m17"
+          class="mt-3 mb-1 inline-block" data-aos="fade-up" data-aos-duration="400">
           <span class="inline-flex rounded-full shadow-sm">
             <button type="button"
               class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
@@ -458,7 +458,8 @@
       </div>
       <div class="mt-5 text-center py-4 text-sm">
         <div>Made with love by</div>
-        <a class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
+        <a rel="noopener noreferrer"
+          class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
           href="https://www.instagram.com/ibibhu/" target="_blank">Miku</a>
       </div>
       <div class="flex justify-center gap-2 mt-8">
