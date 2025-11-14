@@ -458,9 +458,9 @@
       </div>
       <div class="mt-5 text-center py-4 text-sm">
         <div>Made with love by</div>
-        <a rel="noopener noreferrer"
+        <a rel=" noopener noreferrer" @click="updateReaction('loki')"
           class="text-base border-b border-gray-400 inline-block hover:text-red-700 hover:border-red-700"
-          href="https://www.instagram.com/ibibhu/" target="_blank">Miku</a>
+          href=" https://www.instagram.com/ibibhu/" target="_blank">#Bibhu</a>
       </div>
       <div class="flex justify-center gap-2 mt-8">
         <div
@@ -499,6 +499,7 @@ const reactions = ref({
   love: 0,
   superlike: 0,
   cool: 0,
+  loki: 0
 })
 
 const showArrow = ref(false)
