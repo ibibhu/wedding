@@ -436,6 +436,22 @@
           </div>
         </div>
       </div>
+      <div class="mt-12 text-center">
+        <a href="https://wa.me/918983493511" class="mt-3 mb-1 inline-block" data-aos="fade-up" data-aos-duration="400"
+          target="_blank" rel="noopener noreferrer">
+          <span class="inline-flex rounded-full shadow-sm">
+            <button type="button"
+              class="inline-flex items-center px-3 py-2 border border-transparent text-sm leading-5 font-medium rounded-full text-white bg-red-700 hover:bg-red-600 focus:outline-none focus:border-red-800 focus:shadow-outline-indigo active:bg-red-800 transition ease-in-out duration-150">
+              Send Your Wishes
+              <svg class="ml-2 -mr-1 h-4 w-4 text-white transform rotate-90" fill="none" stroke="currentColor"
+                viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
+              </svg>
+            </button>
+          </span>
+        </a>
+      </div>
       <div class="mt-16">
         <img alt="Sampujita & Abhijeet" data-aos="fade-up" data-aos-duration="400" src="@/assets/images/footer-logo.png"
           class="mx-auto w-24 md:w-32" />
