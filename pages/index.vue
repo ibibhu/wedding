@@ -1,19 +1,45 @@
 <template>
   <div class="overflow-hidden">
     <div class="confetti">
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
-      <div class="confetti-piece"></div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
+      <div class="confetti-piece">
+        <img src="@/assets/images/petal.png" />
+      </div>
     </div>
 
     <div class="flex justify-center pt-20 px-4 md:py-4 min-h-screen">
