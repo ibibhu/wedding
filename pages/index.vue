@@ -237,6 +237,11 @@
             <span class="highlight text-xl">LUNCH</span>
           </span>
         </div>
+        <div class="font-medium text-sm md:text-base tracking-wider mb-4" data-aos="fade-up" data-aos-duration="400">
+          <span>
+            <span class="text-s">Hosted by Sampujita’s family</span>
+          </span>
+        </div>
         <div class="font-medium" translate="no" data-aos="fade-up" data-aos-duration="400">
           SINGHI PALACE, GARIAHAT, KOLKATA <br />
           1:00 PM Onwards
