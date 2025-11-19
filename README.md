@@ -1,10 +1,10 @@
 # Wedding invitation
 
-> Beautifully designed one pager website for Sampujita & Abhijeet’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
+> Beautifully designed one pager website for Karishma & Ashish’s wedding. The website is powered by [Nuxt JS](https://nuxtjs.org/).
 
-[See it live](https://sampujita-abhijeet.netlify.app/).
+[See it live](https://karishma-ashish.netlify.app/).
 
-![Sampujita & Abhijeet](https://sampujita-abhijeet.netlify.app/og-image.jpg 'Sampujita & Abhijeet')
+![Karishma & Ashish](https://karishma-ashish.netlify.app/og-image.jpg 'Karishma & Ashish')
 
 ## Bulit with
 
@@ -13,7 +13,7 @@
 
 ## Deployment
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da357308-0580-49aa-a6fc-4053a7b2e26f/deploy-status)](https://app.netlify.com/sites/sampujita-abhijeet/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da357308-0580-49aa-a6fc-4053a7b2e26f/deploy-status)](https://app.netlify.com/sites/karishma-ashish/deploys)
 
 ## Build Setup
 

@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   // App configuration
   app: {
     head: {
-      title: "Sampujita & Abhijeet | We're getting married!",
+      title: "Karishma & Ashish | We're getting married!",
       meta: [
         { charset: 'utf-8' },
         { name: 'google', content: 'notranslate' },
@@ -21,11 +21,11 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:url',
-          content: 'https://sampujita-abhijeet.netlify.app/',
+          content: 'https://karishma-ashish.netlify.app/',
         },
         {
           property: 'og:title',
-          content: "Sampujita & Abhijeet | We're getting married!",
+          content: "Karishma & Ashish | We're getting married!",
         },
         {
           property: 'og:description',
@@ -42,11 +42,11 @@ export default defineNuxtConfig({
         },
         {
           property: 'twitter:url',
-          content: 'https://sampujita-abhijeet.netlify.app/',
+          content: 'https://karishma-ashish.netlify.app/',
         },
         {
           property: 'twitter:title',
-          content: "Sampujita & Abhijeet | We're getting married!",
+          content: "Karishma & Ashish | We're getting married!",
         },
         {
           property: 'twitter:description',
